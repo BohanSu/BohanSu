@@ -2,11 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBohanSuanuraghazra)]
 
-💻 Full-Stack Developer / 📷 Weekend Photographer / 🎬 YouTuber
+💻 Full-Stack Developer / 📷 Weekend Photographer
 
 ## Resume
 
-Click **[📝 HERE]([https://github.com/BohanSu/BohanSu/blob/main/README.md])** to view my resume in detail.
+Click **[📝 HERE](https://github.com/BohanSu/BohanSu/blob/main/README.md)** to view my resume in detail.
 
 ## About Me
 
