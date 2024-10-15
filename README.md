@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBohanSuanuraghazra)]
+![](https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=transparent)
+
 
 💻 Full-Stack Developer / 📷 Weekend Photographer
 
