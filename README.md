@@ -6,7 +6,7 @@
 
 ## Resume
 
-Click **[📝 HERE](https://github.com/BohanSu/BohanSu/main/RESUME.md)** to view my resume in detail.
+Click **[📝 HERE]([https://github.com/BohanSu/BohanSu/blob/main/README.md])** to view my resume in detail.
 
 ## About Me
 
