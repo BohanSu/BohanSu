@@ -12,13 +12,12 @@ Click **[📝 HERE](https://github.com/BohanSu/BohanSu/blob/main/README.md)** to
 ## About Me
 
 - ⌨️ Undergraduate student
-- 🐾 
+- 🐾 Pet a puppy
 - ✍️ 
 - 🎬 
 - 📷 Passionate about photography.
 - ✈️ Globetrotter with travels to multiple countries 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
-- 🏃 
-- 🤿 
+- 🏃 Marason lover
 - 🚲 
 
 ## Social
