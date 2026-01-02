@@ -91,7 +91,7 @@
         * Achieved full-link tracing for **8 concurrent agents** using unified context IDs.
 </details>
 
-<details>
+<details open>
 <summary><h3>🧩 2. Modular AI Programming Robot (National 1st Prize)</h3></summary>
 
 * **Role:** System Lead (Logic & Algorithms)
@@ -121,7 +121,7 @@
 
 ---
 
-<details>
+<details open>
 <summary><h3>🌟 Leadership & Soft Skills</h3></summary>
 
 * **Head of Campus News Center (Student Org)**
