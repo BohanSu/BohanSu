@@ -5,12 +5,12 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=800&color=2334D0&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+@+Wuhan+University;Rank+1+Scholarship+Winner+%7C+GPA+3.7%2F4.0;Researching+Multi-Agent+Systems+%26+ReID;National+IoT+Contest+1st+Prize+Winner;Developing+Real-World+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+Wuhan+University;Rank+1+Scholarship+Winner+%7C+GPA+3.7%2F4.0;Researching+Multi-Agent+Systems+%26+ReID;National+IoT+Contest+1st+Prize+Winner;Developing+Real-World+AI+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="mailto:2023302143001@whu.edu.cn">
-      <img src="https://img.shields.io/badge/Email-2023302143001%40whu.edu.cn-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email_Me-2023302143001%40whu.edu.cn-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/BohanSu">
       <img src="https://img.shields.io/badge/GitHub-BohanSu-181717?style=for-the-badge&logo=github&logoColor=white" />
