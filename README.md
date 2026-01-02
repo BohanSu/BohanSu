@@ -131,13 +131,11 @@
 ### 📊 **My Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohanSu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180px" alt="Languages" />
+  <img src="https://streak-stats.demolab.com?user=BohanSu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BohanSu&theme=tokyonight&hide_border=true" alt="Streak" />
+  <sub>Let's connect and build something amazing! 🚀</sub>
 </div>
 
 ---
