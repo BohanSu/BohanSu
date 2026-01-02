@@ -131,13 +131,15 @@
 ### 📊 **My Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=midnight-owl&count_private=true&hide_border=true&include_all_commits=true" height="180px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohanSu&layout=compact&theme=midnight-owl&hide_border=true&langs_count=6" height="180px"/>
+
+[![BohanSu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/BohanSu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BohanSu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/BohanSu)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BohanSu&theme=midnight-owl&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BohanSu&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
