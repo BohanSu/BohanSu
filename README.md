@@ -121,11 +121,20 @@
 
 ---
 
-### 🌟 **Leadership & Impact**
+<details>
+<summary><h3>🌟 Leadership & Soft Skills</h3></summary>
 
-* **Party Branch (News & Publicity Dept):** Led a team to publish **100+** articles (including 17 deep-theory pieces), achieving **1000+** avg. views/article. [cite_start]Implemented standardized management for zero errors. [cite: 54, 56]
-* [cite_start]**Second Classroom Center:** Responsible for platform QA, identified and fixed **15+ bugs**, improving system stability by **30%**. [cite: 59]
+* **Head of Campus News Center (Student Org)**
+    * Led a team to publish **100+ articles** (including 17 deep-theory pieces), achieving **1000+ avg. views/article**.
+    * Implemented standardized management workflows, achieving **zero errors** throughout the year.
 
+* **Campus Activity Platform QA (Student Union)**
+    * Responsible for platform quality assurance and bug tracking.
+    * Identified and fixed **15+ critical bugs**, improving system stability by **30%**.
+
+</details>
+
+<br/>
 ---
 
 ### 📊 **My Coding Activity**
