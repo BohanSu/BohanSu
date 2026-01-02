@@ -131,9 +131,9 @@
 ### 📊 **My Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BohanSu&show_icons=true&theme=tokyonight&hide_border=true" height="180px" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohanSu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohanSu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180px" alt="Languages" />
 </div>
 
 <div align="center">
