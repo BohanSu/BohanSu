@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+Wuhan+University;Rank+1+Scholarship+Winner+%7C+GPA+3.7%2F4.0;Researching+Multi-Agent+Systems+%26+ReID;National+IoT+Contest+1st+Prize+Winner;Developing+Real-World+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+@+Wuhan+University;Rank+1+Scholarship+Winner+%7C+GPA+3.7%2F4.0;ECCV+2026+Submission%3A+Multi-Agent+ReID+Research;National+IoT+Contest+1st+Prize+Winner;Developing+Real-World+AI+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/GitHub-BohanSu-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <img src="https://img.shields.io/badge/Location-Wuhan,%20China-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white" />
+    <img src="https://img.shields.io/badge/ECCV_2026-Submission-blue?style=for-the-badge" />
   </p>
 </div>
 
@@ -31,7 +32,7 @@
         I am a senior undergraduate majoring in <b>Software Engineering</b> at <b>Wuhan University (National Characteristic Demonstration Software College)</b>.
       </p>
       <p>
-        My passion lies in bridging the gap between <b>Academic Algorithms</b> and <b>Production Engineering</b>. I specialize in designing robust <b>Multi-Agent Systems</b> and optimizing <b>Embedded AI</b> pipelines. Currently, I am conducting research on <b>2D-3D Person Re-Identification (ReID)</b> targeting IJCAI submission.
+        My passion lies in bridging the gap between <b>Academic Algorithms</b> and <b>Production Engineering</b>. I specialize in designing robust <b>Multi-Agent Systems</b> and optimizing <b>Embedded AI</b> pipelines. Currently, I am conducting research on <b>2D-3D Person Re-Identification (ReID)</b> with a submission to ECCV 2026.
       </p>
       <br />
       <h3>🔭 Core Competencies</h3>
