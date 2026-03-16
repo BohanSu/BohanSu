@@ -5,61 +5,201 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bohan Su</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
     <div class="container">
-        <header class="hero">
-            <h1>Bohan Su</h1>
-            <p class="subtitle">Software Engineering • Wuhan University</p>
+        <header class="hero" data-aos="fade-down">
+            <div class="hero-content">
+                <h1>Bohan Su</h1>
+                <p class="subtitle">Software Engineering • Wuhan University</p>
+                <div class="hero-badges">
+                    <span class="badge">ECCV 2026 Submission</span>
+                    <span class="badge">3D-enhanced Universal ReID</span>
+                </div>
+            </div>
         </header>
 
-        <section class="about">
-            <h2>About</h2>
-            <p>
-                I am a senior undergraduate majoring in Software Engineering at Wuhan University (National Characteristic Demonstration Software College).
-                My research focuses on <strong>3D-enhanced Universal ReID</strong> with a submission to ECCV 2026.
-                I specialize in designing robust Multi-Agent Systems and optimizing Embedded AI pipelines.
-            </p>
+        <section class="about" data-aos="fade-up">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <p>
+                    I am a senior undergraduate majoring in <strong>Software Engineering</strong> at <strong>Wuhan University</strong> (National Characteristic Demonstration Software College).
+                </p>
+                <p>
+                    My research focuses on <strong>3D-enhanced Universal ReID</strong> with a submission to <strong>ECCV 2026</strong>.
+                    I specialize in designing robust <strong>Multi-Agent Systems</strong> and optimizing <strong>Embedded AI</strong> pipelines.
+                </p>
+                <p>
+                    My passion lies in bridging academic innovation with real-world engineering impact — turning complex algorithms into production-ready solutions.
+                </p>
+            </div>
         </section>
 
-        <section class="highlights">
-            <h2>Highlights</h2>
-            <ul>
-                <li>🥇 National 1st Prize, IoT Design Contest</li>
-                <li>🥈 National 2nd Prize, Jiebang Guashuai Challenge</li>
-                <li>📜 Honorable Mention, MCM/ICM (Math Modeling)</li>
-                <li>📧 <a href="mailto:2023302143001@whu.edu.cn">2023302143001@whu.edu.cn</a></li>
-                <li>🐙 <a href="https://github.com/BohanSu" target="_blank">github.com/BohanSu</a></li>
-            </ul>
-        </section>
-
-        <section class="projects">
-            <h2>Featured Projects</h2>
-            <div class="project-grid">
-                <div class="project-card">
-                    <h3>A4R Multi-Agent Architecture</h3>
-                    <p>Core Architect & Developer for Holos Platform Challenge — designed intelligent pre-processing agents and engineering resilience strategies.</p>
-                </div>
-                <div class="project-card">
-                    <h3>Modular AI Programming Robot</h3>
-                    <p>System Lead — achieved &lt;1.5s audio E2E latency and 92% intent understanding accuracy via prompt engineering.</p>
-                </div>
-                <div class="project-card">
-                    <h3>General AI Assistant</h3>
-                    <p>Focus on Dynamic Orchestration & Collaborative Reasoning — optimized inter-agent communication protocols.</p>
-                </div>
-                <div class="project-card">
-                    <h3>Hexbot Embedded Platform</h3>
-                    <p>RISC-V + ESP32 sensor fusion — independently developed drivers for 6 sensor types, reducing student learning curve by 40%.</p>
+        <section class="education" data-aos="fade-up">
+            <h2>Education</h2>
+            <div class="education-timeline">
+                <div class="education-item" data-aos="fade-right">
+                    <h3>Wuhan University</h3>
+                    <p class="degree">B.Eng. in Software Engineering</p>
+                    <p class="period">2023 - 2027 (Expected)</p>
+                    <p class="details">National Characteristic Demonstration Software College • GPA: 3.7/4.0</p>
                 </div>
             </div>
         </section>
 
-        <footer class="footer">
-            <p>&copy; <span id="year"></span> Bohan Su. All rights reserved.</p>
+        <section class="research" data-aos="fade-up">
+            <h2>Research Focus</h2>
+            <div class="research-content">
+                <div class="research-item" data-aos="fade-left">
+                    <h3>3D-enhanced Universal ReID</h3>
+                    <p><strong>Target Venue:</strong> ECCV 2026 (Under Review)</p>
+                    <p><strong>Objective:</strong> Develop a unified person re-identification framework that works across 2D and 3D modalities, handling variations in pose, lighting, occlusion, and viewpoint.</p>
+                    <p><strong>Key Contributions:</strong></p>
+                    <ul class="research-list">
+                        <li>Novel cross-modal feature alignment technique</li>
+                        <li>Viewpoint-invariant representation learning</li>
+                        <li>Robustness to occlusion and pose variation</li>
+                        <li>Real-time inference capability for deployment</li>
+                    </ul>
+                    <p><strong>Methods:</strong> Multi-agent perception system, transformer-based feature fusion, contrastive learning with hard negative mining.</p>
+                </div>
+                <div class="research-item" data-aos="fade-right">
+                    <h3>Multi-Agent Systems for Visual Understanding</h3>
+                    <p><strong>Focus:</strong> Dynamic orchestration of specialized agents for complex visual tasks</p>
+                    <p><strong>Applications:</strong> ReID, action recognition, scene understanding</p>
+                    <p><strong>Innovation:</strong> A4R (Ask-for-Refine) architecture with GuideAgent, ValidateAgent, DiscernAgent for intent uncertainty resolution.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="highlights" data-aos="fade-up">
+            <h2>Highlights & Awards</h2>
+            <div class="highlights-grid">
+                <div class="highlight-card" data-aos="zoom-in">
+                    <h3>🥇 National 1st Prize</h3>
+                    <p>IoT Design Contest (Top 6 nationwide)</p>
+                </div>
+                <div class="highlight-card" data-aos="zoom-in" data-aos-delay="100">
+                    <h3>🥈 National 2nd Prize</h3>
+                    <p>Jiebang Guashuai Challenge</p>
+                </div>
+                <div class="highlight-card" data-aos="zoom-in" data-aos-delay="200">
+                    <h3>📜 Honorable Mention</h3>
+                    <p>MCM/ICM Mathematical Modeling</p>
+                </div>
+                <div class="highlight-card" data-aos="zoom-in" data-aos-delay="300">
+                    <h3>🔬 Research Selection</h3>
+                    <p>Wuhan University 特色化示范性软件学院 2023级试验班候选资格</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="skills" data-aos="fade-up">
+            <h2>Technical Skills</h2>
+            <div class="skills-container">
+                <div class="skills-column" data-aos="fade-up">
+                    <h3>Programming Languages</h3>
+                    <ul class="skills-list">
+                        <li>Python</li>
+                        <li>C++</li>
+                        <li>Java</li>
+                        <li>JavaScript/TypeScript</li>
+                    </ul>
+                </div>
+                <div class="skills-column" data-aos="fade-up" data-aos-delay="100">
+                    <h3>Frameworks & Tools</h3>
+                    <ul class="skills-list">
+                        <li>TensorFlow / Pandas</li>
+                        <li>LLM APIs (OpenSource/OpenAI)</li>
+                        <li>Git / Vue.js</li>
+                        <li>ESP32 / STM32 / RISC-V</li>
+                    </ul>
+                </div>
+                <div class="skills-column" data-aos="fade-up" data-aos-delay="200">
+                    <h3>Systems & Concepts</h3>
+                    <ul class="skills-list">
+                        <li>Multi-Agent Systems</li>
+                        <li>Embedded AI Pipelines</li>
+                        <li>Concurrency Control</li>
+                        <li>Prompt Engineering</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="projects" data-aos="fade-up">
+            <h2>Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card" data-aos="fade-up">
+                    <div class="project-content">
+                        <h3>A4R Multi-Agent Architecture</h3>
+                        <p><strong>Role:</strong> Core Architect & Developer (Holos Platform Challenge)</p>
+                        <p><strong>Innovation:</strong> Designed A4R (Ask-for-Refine) framework with GuideAgent, ValidateAgent, and DiscernAgent to handle intent uncertainty and multi-turn interactions.</p>
+                        <p><strong>Impact:</strong> Achieved full-link tracing for 8 concurrent agents with <strong>Task Fingerprint</strong> deduplication and LLM+Rule Engine resilience strategy.</p>
+                    </div>
+                </div>
+                <div class="project-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="project-content">
+                        <h3>Modular AI Programming Robot</h3>
+                        <p><strong>Role:</strong> System Lead (National 1st Prize)</p>
+                        <p><strong>Technical Stack:</strong> Python Threading, LLM Prompt Engineering, Audio Processing</p>
+                        <p><strong>Achievements:</strong> 92% intent understanding accuracy, &lt;1.5s audio E2E latency, solved real-time debugging vs hardware control conflicts.</p>
+                    </div>
+                </div>
+                <div class="project-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="project-content">
+                        <h3>General AI Assistant</h3>
+                        <p><strong>Focus:</strong> Dynamic Orchestration & Collaborative Reasoning</p>
+                        <p><strong>Contributions:</strong> Developed Agent Workflow modules (tool calling, decision logic) and optimized Inter-Agent Communication Protocols.</p>
+                        <p><strong>Recognition:</strong> Jiebang Guashuai National Silver Award</p>
+                    </div>
+                </div>
+                <div class="project-card" data-aos="fade-up" data-aos-delay="300">
+                    <div class="project-content">
+                        <h3>Hexbot Embedded Platform</h3>
+                        <p><strong>Technology:</strong> RISC-V + ESP32 Sensor Fusion</p>
+                        <p><strong>Achievement:</strong> Independently developed drivers for 6 sensor types, reducing student learning curve by 40% in experimental classes.</p>
+                        <p><strong>Impact:</strong> Created accessible embedded learning platform for interdisciplinary education.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact" data-aos="fade-up">
+            <h2>Connect</h2>
+            <div class="contact-info">
+                <div class="contact-item" data-aos="fade-right">
+                    <h3>📧 Email</h3>
+                    <p><a href="mailto:2023302143001@whu.edu.cn">2023302143001@whu.edu.cn</a></p>
+                </div>
+                <div class="contact-item" data-aos="fade-up" data-aos-delay="100">
+                    <h3>🐙 GitHub</h3>
+                    <p><a href="https://github.com/BohanSu" target="_blank">github.com/BohanSu</a></p>
+                </div>
+                <div class="contact-item" data-aos="fade-left" data-aos-delay="200">
+                    <h3>📍 Location</h3>
+                    <p>Wuhan, China</p>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer" data-aos="fade-up">
+            <div class="footer-content">
+                <p>&copy; <span id="year"></span> Bohan Su. All rights reserved.</p>
+                <p class="footer-note">Last updated: March 2026</p>
+            </div>
         </footer>
     </div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
+        AOS.init({
+            duration: 800,
+            easing: 'slide',
+            once: true,
+            mirror: false
+        });
+
         document.getElementById('year').textContent = new Date().getFullYear();
     </script>
 </body>
