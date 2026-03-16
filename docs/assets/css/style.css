@@ -48,6 +48,10 @@ header.hero {
     padding: 8rem 0 6rem;
     position: relative;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
 }
 
 header.hero::before {
@@ -64,47 +68,73 @@ header.hero::before {
 header.hero .hero-content {
     position: relative;
     z-index: 2;
-    max-width: 800px;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    max-width: 1200px;
     margin: 0 auto;
+    width: 100%;
+}
+
+header.hero .hero-image {
+    flex-shrink: 0;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid var(--accent-color);
+    box-shadow: var(--shadow-medium);
+    transition: var(--transition);
+    position: relative;
+}
+
+header.hero .hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.5s ease;
+}
+
+header.hero .hero-image:hover img {
+    transform: scale(1.05);
+}
+
+header.hero .hero-text {
+    text-align: left;
+    max-width: 500px;
 }
 
 header.hero h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-weight: 200;
-    letter-spacing: -1px;
-    margin-bottom: 1.5rem;
+    letter-spacing: -0.5px;
+    margin-bottom: 1rem;
     background: linear-gradient(90deg, #fff, var(--accent-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    display: inline-block;
-    position: relative;
 }
 
 header.hero h1::after {
     content: '';
     position: absolute;
     bottom: -8px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 80px;
+    left: 0;
+    width: 60px;
     height: 4px;
     background: var(--accent-color);
 }
 
 header.hero .subtitle {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 300;
     color: var(--text-secondary);
     margin-bottom: 2rem;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 header.hero .hero-badges {
     display: flex;
     gap: 1rem;
-    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -125,6 +155,66 @@ header.hero .badge:hover {
     background: rgba(212, 175, 55, 0.2);
     transform: translateY(-2px);
     box-shadow: var(--shadow-light);
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+    header.hero .hero-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    header.hero .hero-text {
+        text-align: center;
+        max-width: 80%;
+    }
+    
+    header.hero h1 {
+        font-size: 2.8rem;
+    }
+    
+    header.hero .subtitle {
+        font-size: 1.15rem;
+    }
+    
+    header.hero .hero-badges {
+        justify-content: center;
+    }
+    
+    header.hero .hero-image {
+        width: 220px;
+        height: 220px;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 600px) {
+    header.hero {
+        padding: 6rem 0 4rem;
+        min-height: auto;
+    }
+    
+    header.hero .hero-image {
+        width: 180px;
+        height: 180px;
+    }
+    
+    header.hero h1 {
+        font-size: 2.2rem;
+    }
+    
+    header.hero .subtitle {
+        font-size: 1rem;
+    }
+    
+    header.hero .hero-badges {
+        gap: 0.75rem;
+    }
+    
+    header.hero .badge {
+        padding: 0.4rem 1rem;
+        font-size: 0.8rem;
+    }
 }
 
 /* Section Styles */
