@@ -127,10 +127,11 @@ header.hero h1::after {
 }
 
 header.hero .subtitle {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: 300;
     color: var(--text-secondary);
     margin-bottom: 2rem;
+    white-space: nowrap;
 }
 
 header.hero .hero-badges {
