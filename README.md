@@ -17,6 +17,9 @@
     </a>
     <img src="https://img.shields.io/badge/Location-Wuhan,%20China-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white" />
     <img src="https://img.shields.io/badge/ECCV_2026-Submission-blue?style=for-the-badge" />
+    <a href="https://BohanSu.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-BohanSu.github.io-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </div>
 
