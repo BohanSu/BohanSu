@@ -24,6 +24,7 @@
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
+    scroll-snap-type: y mandatory;
 }
 
 body {
@@ -33,6 +34,17 @@ body {
     line-height: 1.8;
     font-weight: 300;
     overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+}
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: var(--primary-color);
+    color: var(--text-primary);
+    line-height: 1.8;
+    font-weight: 300;
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
 }
 
 .container {
@@ -45,13 +57,14 @@ body {
 /* Header Styles */
 header.hero {
     text-align: center;
-    padding: 8rem 0 6rem;
+    padding: 3rem 0 1.5rem;
     position: relative;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 80vh;
+    scroll-snap-align: start;
 }
 
 header.hero::before {
@@ -103,7 +116,7 @@ header.hero .hero-image:hover img {
 
 header.hero .hero-text {
     text-align: left;
-    max-width: 500px;
+    max-width: 650px;
 }
 
 header.hero h1 {
@@ -132,6 +145,7 @@ header.hero .subtitle {
     color: var(--text-secondary);
     margin-bottom: 2rem;
     white-space: nowrap;
+    letter-spacing: -0.25px;
 }
 
 header.hero .hero-badges {
@@ -221,8 +235,14 @@ header.hero .badge:hover {
 
 /* Section Styles */
 section {
-    padding: 4rem 0;
+    height: 100vh;
+    padding: 4rem var(--spacing-unit);
     position: relative;
+    box-sizing: border-box;
+    scroll-snap-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 section h2 {
