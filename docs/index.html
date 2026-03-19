@@ -7,104 +7,146 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <header>
-        <img src="assets/images/photo.jpg" alt="Bohan Su" class="portrait">
-        <div>
-            <h1>Bohan Su</h1>
-            <p>Software Engineering • Wuhan University • LLM Reasoning & Multi-Agent Systems</p>
-        </div>
-    </header>
-
-    <section class="about">
-        <h2>About Me</h2>
-        <p>
-            Senior undergraduate in Software Engineering at Wuhan University (National Characteristic Demonstration Software College), GPA 3.7/4.0, top 25% major. Focus on LLM reasoning, multi-agent systems, and embedded AI.
-        </p>
-        <a href="苏渤涵简历.pdf" target="_blank" class="btn">Download Resume (PDF)</a>
-    </section>
-
-    <section class="education">
-        <h2>Education</h2>
-        <p><strong>Wuhan University</strong> • B.Eng. in Software Engineering (Expected 2027)</p>
-        <p>National Characteristic Demonstration Software College • GPA: 3.7/4.0 • Major Ranking: Top 25%</p>
-    </section>
-
-    <section class="research">
-        <h2>Research Focus</h2>
-        <p>
-            Currently writing a 2D-3D Person Re-Identification paper (expected submission to ECCV 2026). Expertise in LLM reasoning through multi-agent architectures (A4R framework), tool use, and workflow debugging. Applied focus on embedded AI and IoT systems.
-        </p>
-    </section>
-
-    <section class="highlights">
-        <h2>Highlights & Awards</h2>
-        <div class="awards">
-            <div class="award">
-                <h3>🥇 National First Prize</h3>
-                <p>National College Student IoT Design Competition – Independently developed drivers for 6 sensor types on RISC-V+ESP32 platform, reducing student learning curve by 40%</p>
+    <div class="container">
+        <header class="hero">
+            <img src="assets/images/photo.jpg" alt="Bohan Su" class="portrait">
+            <div class="hero-text">
+                <h1>Bohan Su</h1>
+                <p class="subtitle">Software Engineering • Wuhan University • LLM Reasoning & Multi-Agent Systems</p>
             </div>
-            <div class="award">
-                <h3>🥈 National Second Prize</h3>
-                <p>China Youth Sci-Tech Innovation "Challenge and Champion" – Led team to design A4R multi-agent architecture handling intent uncertainty and multi-turn interactions</p>
+        </header>
+
+        <section class="about">
+            <h2>About Me</h2>
+            <p>
+                Senior undergraduate in Software Engineering at Wuhan University (National Characteristic Demonstration Software College), GPA 3.7/4.0, top 25% in major. Focus on LLM reasoning, multi-agent systems, and embedded AI.
+            </p>
+            <a href="苏渤涵简历.pdf" target="_blank" class="btn">Download Resume (PDF)</a>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Wuhan University</strong> • B.Eng. in Software Engineering (Expected 2027)</p>
+            <p>National Characteristic Demonstration Software College • GPA: 3.7/4.0 • Major Ranking: Top 25%</p>
+        </section>
+
+        <section class="research">
+            <h2>Research Focus</h2>
+            <div class="research-grid">
+                <div class="research-item">
+                    <h3>2D-3D ReID & Multimodal Learning</h3>
+                    <p>Currently writing a paper on 2D-3D Person Re-Identification (expected submission to ECCV 2026).</p>
+                    <ul>
+                        <li>Cross-modal feature alignment</li>
+                        <li>Viewpoint-invariant representation</li>
+                        <li>Robustness to occlusion and pose variation</li>
+                        <li>Real-time inference capability</li>
+                    </ul>
+                </div>
+                <div class="research-item">
+                    <h3>LLM Reasoning & Multi-Agent Intelligence</h3>
+                    <p>Expertise in enhancing reasoning capabilities in Large Language Models through multi-agent architectures.</p>
+                    <ul>
+                        <li>Novel agent orchestration frameworks (A4R: Ask-for-Refine)</li>
+                        <li>Tool-use optimization and API integration</li>
+                        <li>Workflow debugging and error recovery</li>
+                        <li>Intent uncertainty resolution in multi-turn interactions</li>
+                        <li>Knowledge retrieval via external tool utilization</li>
+                    </ul>
+                </div>
             </div>
-            <div class="award">
-                <h3>📜 Honorable Mention</h3>
-                <p>International Mathematical Modeling Competition (MCM/ICM) – Applied mathematical modeling to solve complex engineering problems</p>
+        </section>
+
+        <section class="highlights">
+            <h2>Highlights & Awards</h2>
+            <div class="awards-grid">
+                <div class="award">
+                    <h3>🥇 National First Prize</h3>
+                    <p>National College Student IoT Design Competition – Independently developed drivers for 6 sensor types on RISC-V+ESP32 platform, reducing student learning curve by 40%</p>
+                </div>
+                <div class="award">
+                    <h3>🥈 National Second Prize</h3>
+                    <p>China Youth Sci-Tech Innovation "Challenge and Champion" – Led team to design A4R multi-agent architecture handling intent uncertainty and multi-turn interactions</p>
+                </div>
+                <div class="award">
+                    <h3>📜 Honorable Mention</h3>
+                    <p>International Mathematical Modeling Competition (MCM/ICM) – Applied mathematical modeling to solve complex engineering problems</p>
+                </div>
+                <div class="award">
+                    <h3>🥈 Silver Award</h3>
+                    <p>University Student Innovation and Entrepreneurship Series Projects – Core member/responsible person for Hexbot / Shijie Yongheng / Ice Cube Robot</p>
+                </div>
             </div>
-            <div class="award">
-                <h3>🥈 Silver Award</h3>
-                <p>University Student Innovation and Entrepreneurship Series Projects – Core member/responsible person for Hexbot / Shijie Yongheng / Ice Cube Robot</p>
+        </section>
+
+        <section class="skills">
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Languages</h3>
+                    <p>Python, C++, Java, JavaScript/TypeScript</p>
+                </div>
+                <div class="skill-category">
+                    <h3>Frameworks & Tools</h3>
+                    <p>TensorFlow/Pandas, LLM APIs, Git, Vue.js</p>
+                </div>
+                <div class="skill-category">
+                    <h3>Systems</h3>
+                    <p>Multi-Agent Systems, Embedded AI, Concurrency Control, Prompt Engineering, RISC-V/ESP32/STM32</p>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section class="skills">
-        <h2>Technical Skills</h2>
-        <p>
-            Languages: Python, C++, Java, JavaScript/TypeScript<br>
-            Frameworks: TensorFlow/Pandas, LLM APIs, Git, Vue.js<br>
-            Systems: Multi-Agent Systems, Embedded AI, Concurrency Control, Prompt Engineering, RISC-V/ESP32/STM32
-        </p>
-    </section>
+        <section class="projects">
+            <h2>Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project">
+                    <h3>A4R Multi-Agent Architecture</h3>
+                    <p><strong>Role:</strong> Core Architect & Developer (Holos Platform Challenge)</p>
+                    <p><strong>Impact:</strong> Designed A4R framework with Guide/Validate/Discern agents to handle intent uncertainty; achieved full-link tracing for 8 concurrent agents with Task Fingerprint deduplication.</p>
+                </div>
+                <div class="project">
+                    <h3>General AI Assistant</h3>
+                    <p><strong>Role:</strong> Core Technical Member</p>
+                    <p><strong>Recognition:</strong> China Youth Sci-Tech Innovation National Second Prize</p>
+                </div>
+                <div class="project">
+                    <h3>Modular AI Programming Robot</h3>
+                    <p><strong>Role:</strong> System Lead</p>
+                    <p><strong>Recognition:</strong> National First Prize (Top 6)</p>
+                    <p><strong>Achievements:</strong> 92% intent understanding accuracy, &lt;1.5s audio E2E latency, solved real-time debugging vs hardware control conflicts.</p>
+                </div>
+                <div class="project">
+                    <h3>Hexbot Embedded Platform</h3>
+                    <p><strong>Role:</strong> Core Member / Responsible Person</p>
+                    <p><strong>Recognition:</strong> Silver Award</p>
+                    <p><strong>Achievement:</strong> Independently developed drivers for 6 sensor types, reducing student learning curve by 40% in experimental classes.</p>
+                </div>
+            </div>
+        </section>
 
-    <section class="projects">
-        <h2>Featured Projects</h2>
-        <div class="project">
-            <h3>A4R Multi-Agent Architecture</h3>
-            <p><strong>Role:</strong> Core Architect & Developer (Holos Platform Challenge)</p>
-            <p><strong>Impact:</strong> Designed A4R framework with Guide/Validate/Discern agents to handle intent uncertainty; achieved full-link tracing for 8 concurrent agents with Task Fingerprint deduplication.</p>
-        </div>
-        <div class="project">
-            <h3>General AI Assistant</h3>
-            <p><strong>Role:</strong> Core Technical Member</p>
-            <p><strong>Recognition:</strong> China Youth Sci-Tech Innovation National Second Prize</p>
-        </div>
-        <div class="project">
-            <h3>Modular AI Programming Robot</h3>
-            <p><strong>Role:</strong> System Lead</p>
-            <p><strong>Recognition:</strong> National First Prize (Top 6)</p>
-            <p><strong>Achievements:</strong> 92% intent understanding accuracy, &lt;1.5s audio E2E latency, solved real-time debugging vs hardware control conflicts.</p>
-        </div>
-        <div class="project">
-            <h3>Hexbot Embedded Platform</h3>
-            <p><strong>Role:</strong> Core Member / Responsible Person</p>
-            <p><strong>Recognition:</p> Silver Award</p>
-            <p><strong>Achievement:</strong> Independently developed drivers for 6 sensor types, reducing student learning curve by 40% in experimental classes.</p>
-        </div>
-    </section>
+        <section class="contact">
+            <h2>Connect</h2>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <h3>📧 Email</h3>
+                    <p><a href="mailto:2023302143001@whu.edu.cn">2023302143001@whu.edu.cn</a></p>
+                </div>
+                <div class="contact-item">
+                    <h3>🐙 GitHub</h3>
+                    <p><a href="https://github.com/BohanSu" target="_blank">github.com/BohanSu</a></p>
+                </div>
+                <div class="contact-item">
+                    <h3>📍 Location</h3>
+                    <p>Wuhan, China</p>
+                </div>
+            </div>
+        </section>
 
-    <section class="contact">
-        <h2>Connect</h2>
-        <p>
-            📧 <a href="mailto:2023302143001@whu.edu.cn">2023302143001@whu.edu.cn</a> &nbsp;|&nbsp;
-            🐙 <a href="https://github.com/BohanSu" target="_blank">github.com/BohanSu</a> &nbsp;|&nbsp;
-            📍 Wuhan, China
-        </p>
-    </section>
-
-    <footer>
-        <p>&copy; <span id="year"></span> Bohan Su. All rights reserved.</p>
-    </footer>
+        <footer>
+            <p>&copy; <span id="year"></span> Bohan Su. All rights reserved.</p>
+        </footer>
+    </div>
 
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
