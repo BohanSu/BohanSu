@@ -167,6 +167,27 @@ section h2::after {
     gap: 1.5rem;
 }
 
+.award-groups {
+    display: grid;
+    gap: 2rem;
+}
+
+.award-group {
+    display: grid;
+    gap: 1rem;
+}
+
+.award-group-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--text-primary);
+}
+
+.compact-awards {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
 .award {
     background: var(--secondary);
     border-radius: var(--border-radius);
