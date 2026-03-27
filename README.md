@@ -23,9 +23,8 @@
 
 ---
 
-## 👋 About Me
-
-I am an undergraduate in **Software Engineering** at **Wuhan University**. My current interests focus on **computer vision**, **LLM reasoning**, and **multi-agent systems**, with ongoing work in **Universal ReID**, **scientific graph extraction**, and **appearance-variant ReID survey writing**.
+## 👋 Positioning
+I am an undergraduate in **Software Engineering** at **Wuhan University**. My current work focuses on **computer vision**, **LLM reasoning**, and **multi-agent systems**, with ongoing research in **Universal ReID**, **scientific graph extraction**, and **appearance-variant ReID survey writing**.
 
 ---
 
@@ -33,43 +32,66 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My cu
 
 ### 1. Reliability-Aware 3D Geometric Injection for Universal Person Re-identification
 - **Status:** ECCV 2026 Submission
-- First-author work on reliability-aware 2D–3D feature fusion for Universal ReID
-- Built around SMPL-based geometric representation and multi-benchmark evaluation
+- **Problem:** How to inject 3D geometric priors into Universal ReID without being overly sensitive to noisy geometry estimates.
+- **What I did:** Built a reliability-aware 2D–3D fusion framework around SMPL-based geometric representation.
+- **Evidence:** Multi-benchmark training, comparison, and ablation analysis across diverse ReID settings.
 
 ### 2. GraphLite: High-Quality Supervision Enables Deployable Small Models for Graph Extraction
 - **Status:** Ongoing, planned submission to **SDM**
-- Scientific graph extraction framework with ARCHE-derived supervision
-- Current progress includes supervision construction, evaluation workflow validation, and 0.8B-scale training pipeline setup
+- **Problem:** How to make scientific graph extraction deployable without depending on frontier LLM inference at scale.
+- **What I did:** Constructed ARCHE-derived supervision signals and a small-model extraction framework.
+- **Progress:** Supervision construction, evaluation workflow validation, and 0.8B-scale training pipeline setup have been completed.
 
 ### 3. Survey and Metric Design for Appearance-Variant Person Re-identification
 - **Status:** Ongoing, TPAMI survey preparation
-- Focused on ReID under clothing, illumination, and pose changes
-- Current work includes taxonomy design, evaluation limitations, and metric formulation
+- **Focus:** ReID under clothing, illumination, and pose changes.
+- **Current progress:** Task taxonomy, evaluation limitations, and metric design space are being organized.
 
 ---
 
-## 🚀 Selected Projects
+## 🧭 Research Map
+- **Computer Vision:** Universal ReID, SMPL-based geometry modeling, robustness under appearance and modality changes
+- **LLM Reasoning:** Structured graph extraction, supervision design, deployable small-model reasoning pipelines
+- **Multi-Agent Systems:** Routing, validation, observability, and collaboration workflows under uncertain user intent
+
+---
+
+## 🚀 Selected Research / Build Highlights
 
 ### A2A Multi-Agent System Development
-- Developed a multi-agent workflow on the Holos platform using the A2A protocol
-- Worked on routing, validation, observability, and uncertain-intent handling
+- Built an A2A-based multi-agent workflow on the Holos platform.
+- Focused on routing, validation, observability, and uncertain-intent handling.
+- Demonstrates system-level reasoning workflow design rather than prompt-only integration.
 
 ### Modular Robot Communication and Control System
-- Participated in software architecture, communication logic, and embedded driver/system integration for a modular robot platform
-- Project won **National First Prize (Top 6)** in the Huawei Cup IoT Design Competition
+- Worked on software architecture, communication logic, and embedded driver/system integration for a modular robot platform.
+- Project won **National First Prize (Top 6)** in the Huawei Cup IoT Design Competition.
+- Demonstrates hardware-software co-design and engineering reliability.
 
 ### Digital Heritage Interactive Presentation System
-- Participated in 3D interaction module design and prototyping for an AI-assisted digital heritage system
-- Focused on immersive visual presentation and AI-generated content integration
+- Participated in 3D interaction module design and prototyping for an AI-assisted digital heritage system.
+- Focused on immersive visual presentation and AI-generated content integration.
+- Demonstrates cross-modal system design and interactive content delivery.
 
 ---
 
-## 🛠 Core Skills
+## 🛠 Skill Tree
 
-- **Programming:** Python, C/C++, Java, Git, MATLAB
-- **Vision & 3D:** Person ReID, SMPL-based human modeling, 3D Gaussian Splatting
-- **LLM & Agents:** Multi-agent system design, routing, validation, observability, mainstream LLM API-based application development
-- **Embedded Systems:** Driver development, modular hardware protocol design, RISC-V / ESP32 platform development
+### Core Research Directions
+- Computer Vision
+- LLM Reasoning
+- Multi-Agent Systems
+
+### Methods & Technical Focus
+- Person ReID, SMPL-based human modeling, 3D Gaussian Splatting
+- Multi-agent system design, routing, validation, observability
+- Structured graph extraction, evaluation workflow design, ablation analysis
+
+### Engineering Support
+- Python, C/C++, Java
+- Git, MATLAB
+- RISC-V / ESP32 embedded platform development
+- Mainstream LLM API-based application development
 
 ---
 
