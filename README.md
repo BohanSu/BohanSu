@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=980&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission%3A+Reliability-Aware+3D+Geometric+Injection+for+Universal+Person+Re-identification;Ongoing+Work%3A+GraphLite+(planned+SDM)+%7C+Appearance-Variant+ReID+Survey;Research+Interests%3A+Computer+Vision%2C+LLM+Reasoning%2C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=980&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission%3A+Reliability-Aware+3D+Geometric+Injection+for+Universal+Person+Re-identification;Ongoing+Work%3A+PEARL+(planned+EMNLP)+%7C+Appearance-Variant+ReID+TPAMI+Survey;Research+Interests%3A+Computer+Vision%2C+LLM+Reasoning%2C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)" alt="Typing SVG" />
   </a>
 
   <p>
@@ -24,84 +24,96 @@
 ---
 
 ## 👋 Positioning
-I am an undergraduate in **Software Engineering** at **Wuhan University**. My current work focuses on **computer vision**, **LLM reasoning**, and **multi-agent systems**, with ongoing research in **Universal ReID**, **scientific graph extraction**, and **appearance-variant ReID survey writing**.
+I am an undergraduate in **Software Engineering** at **Wuhan University**. My work runs on three parallel tracks: **visual representation under appearance variation**, **small-model structured scientific reasoning**, and **multi-agent systems for real tasks**. I care more about methods that turn into reproducible, analyzable, deployable systems than isolated benchmark gains.
+
+---
+
+## 🗓 Recent Updates
+- **2026.04** — TPAMI appearance-variation ReID survey §2–§8 drafted with 231 references; §1 introduction and citation alignment still iterating.
+- **2026.03** — Submitted *Reliability-Aware 3D Geometric Injection for Universal Person Re-identification* to **ECCV 2026**.
+- **2026.03** — PEARL full pipeline ready; Gate B passed locally on three metrics (graph_spec IR, validator, compiler, issue-list repair, joint-score evaluation). Phase 3–5 main experiments queued.
+- **2025.08** — **National First Prize (Top 6)** at the National IoT Design Competition (Huawei Cup).
 
 ---
 
 ## 🔬 Current Research
 
 ### 1. Reliability-Aware 3D Geometric Injection for Universal Person Re-identification
-- **Status:** ECCV 2026 Submission
-- **Problem:** How to inject 3D geometric priors into Universal ReID without being overly sensitive to noisy geometry estimates.
-- **What I did:** Built a reliability-aware 2D–3D fusion framework around SMPL-based geometric representation.
-- **Evidence:** Multi-benchmark training, comparison, and ablation analysis across diverse ReID settings.
+- **Status:** ECCV 2026 submission (2025.10 – 2026.03)
+- **Problem:** In Universal ReID, monocular 3D human geometry is useful but not uniformly trustworthy; naive injection lets noisy geometry poison the 2D backbone.
+- **What I did:** SMPL-based kinematic decoupling, a consistency-aware gate judging whether current 3D is reliable, and residual two-stream fusion so bad 3D never corrupts the 2D path.
+- **Evidence:** 9-benchmark evaluation mapping out where geometric injection actually helps.
 
-### 2. GraphLite: High-Quality Supervision Enables Deployable Small Models for Graph Extraction
-- **Status:** Ongoing, planned submission to **SDM**
-- **Problem:** How to make scientific graph extraction deployable without depending on frontier LLM inference at scale.
-- **What I did:** Constructed ARCHE-derived supervision signals and a small-model extraction framework.
-- **Progress:** Supervision construction, evaluation workflow validation, and 0.8B-scale training pipeline setup have been completed.
+### 2. PEARL: Decoupling Generation from Verification for Small-Model Scientific Reasoning Graph Extraction
+- **Status:** Ongoing, planned submission to **EMNLP**
+- **Problem:** Peircean scientific reasoning graph extraction (ARCHE) mixes structure learning with DOT-syntax generation and mixes diagnosis with repair, making small models brittle.
+- **What I did:** A schema-first framework around a `graph_spec` IR, validator, compiler, and issue-list repair; a 4B Qwen student trained with five-teacher quality-weighted SFT and a smart prompt.
+- **Goal:** Majority-teacher advantage on joint-score without depending on frontier LLMs at inference.
 
-### 3. Survey and Metric Design for Appearance-Variant Person Re-identification
+### 3. Appearance Variations in Person Re-Identification: A Survey
 - **Status:** Ongoing, TPAMI survey preparation
-- **Focus:** ReID under clothing, illumination, and pose changes.
-- **Current progress:** Task taxonomy, evaluation limitations, and metric design space are being organized.
+- **Framework:** Reconstruct the landscape along short-term / long-term / compound appearance variation, then reorganize existing methods through a "robustness vs. generalization" lens; the long-term scale is further split into clothing state, beyond-clothing, and deployment evolution.
+- **Progress:** §2–§8 main body and 231 references drafted; §1 introduction and language pass still iterating.
 
 ---
 
 ## 🧭 Research Map
-- **Computer Vision:** Universal ReID, SMPL-based geometry modeling, robustness under appearance and modality changes
-- **LLM Reasoning:** Structured graph extraction, supervision design, deployable small-model reasoning pipelines
-- **Multi-Agent Systems:** Routing, validation, observability, and collaboration workflows under uncertain user intent
+- **Visual representation under appearance variation:** Universal ReID, SMPL-based human geometry, reliability-aware 2D–3D fusion, survey-level taxonomy and methodology.
+- **Small-model structured scientific reasoning:** Schema-first generation, IR + validator + compiler + repair, teacher-weighted SFT, evaluation design for scientific graphs.
+- **Multi-agent systems for real tasks:** Guided mobile interaction, A2A-protocol collaboration, modular robot communication, with evaluation and observability as first-class goals.
 
 ---
 
-## 🚀 Selected Research / Build Highlights
+## 🚀 Selected Build Highlights
 
-### A2A Multi-Agent System Development
-- Built an A2A-based multi-agent workflow on the Holos platform.
-- Focused on routing, validation, observability, and uncertain-intent handling.
-- Demonstrates system-level reasoning workflow design rather than prompt-only integration.
+### A4R Guided Mobile AI Assistant — China Unicom Challenge (2025.05 – 2025.08)
+- Designed A4R interaction for under-specified mobile requests across **150+ samples**, **6 domains**, and **16 apps**.
+- Reached **64.68% task completion**, balancing disambiguation prompts against operational cost.
+- Demonstrates agent design under user-intent uncertainty rather than prompt-only integration.
 
-### Modular Robot Communication and Control System
-- Worked on software architecture, communication logic, and embedded driver/system integration for a modular robot platform.
-- Project won **National First Prize (Top 6)** in the Huawei Cup IoT Design Competition.
-- Demonstrates hardware-software co-design and engineering reliability.
+### A2A Multi-Agent System on Holos (2025.11)
+- Built an A2A-protocol multi-agent workflow on the Holos platform.
+- Focused on routing, validation, and observability for collaborative workflows.
+- Demonstrates protocol-consistent, debuggable agent system design.
 
-### Digital Heritage Interactive Presentation System
-- Participated in 3D interaction module design and prototyping for an AI-assisted digital heritage system.
-- Focused on immersive visual presentation and AI-generated content integration.
-- Demonstrates cross-modal system design and interactive content delivery.
+### Modular Robot Communication and Control System (2023.11 – 2025.08)
+- Worked on software architecture and embedded system integration for a modular robot platform.
+- Achieved **98.5% communication success rate** and roughly **40% efficiency gain**.
+- Won **National First Prize (Top 6)** at the Huawei Cup National IoT Design Competition.
 
 ---
 
 ## 🛠 Skill Tree
 
 ### Core Research Directions
-- Computer Vision
-- LLM Reasoning
-- Multi-Agent Systems
-
-### Methods & Technical Focus
-- Person ReID, SMPL-based human modeling, 3D Gaussian Splatting
-- Multi-agent system design, routing, validation, observability
-- Structured graph extraction, evaluation workflow design, ablation analysis
+- Computer Vision — Universal ReID, appearance variation, SMPL-based geometry, 3D Gaussian Splatting
+- LLM Reasoning — Schema-first graph extraction, teacher-weighted SFT, joint-score evaluation
+- Multi-Agent Systems — Routing, validation, observability, uncertainty-aware user interaction
 
 ### Engineering Support
 - Python, C/C++, Java
 - Git, MATLAB
 - RISC-V / ESP32 embedded platform development
-- Mainstream LLM API-based application development
+- LLM API-based application development
 
 ---
 
 ## 🎓 Education
-- **Wuhan University**, B.Eng. in Software Engineering (Expected 2027)
-- GPA: **3.74 / 4.0**
+- **Wuhan University**, B.Eng. in Software Engineering — 2023.09 – 2027.06 (expected)
+- GPA **3.74 / 4.0**
+- Focus: visual representation under appearance variation · small-model structured reasoning · multi-agent systems
+
+---
+
+## 🏆 Selected Honors
+- **National First Prize (Top 6)** — National IoT Design Competition (Huawei Cup)
+- **National Second Prize** — China Youth Science & Technology Innovation Challenge
+- **Zheng Geru First-Class Scholarship** — ranked **1st** in the grade-level defense (sole awardee)
 
 ---
 
 ## 📫 Contact
 - Email: **2023302143001@whu.edu.cn**
 - GitHub: **https://github.com/BohanSu**
-- Resume: [苏渤涵简历.pdf](./docs/苏渤涵简历.pdf)
+- Website: **https://BohanSu.github.io**
+- Resume: [苏渤涵简历.pdf](https://BohanSu.github.io/files/苏渤涵简历.pdf)
