@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=800&color=2334D0&center=true&vCenter=true&width=980&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission%3A+Reliability-Aware+3D+Geometric+Injection+for+Universal+Person+Re-identification;Ongoing+Work%3A+PEARL+(planned+EMNLP)+%7C+Appearance-Variant+ReID+TPAMI+Survey;Research+Interests%3A+Computer+Vision%2C+LLM+Reasoning%2C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2334D0&center=true&vCenter=true&width=1100&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission+%7C+PEARL+(EMNLP)+%7C+ReID+Survey+(TPAMI);Computer+Vision+%7C+LLM+Reasoning+%7C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)" alt="Typing SVG" />
   </a>
 
   <p>
