@@ -119,7 +119,8 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 ---
 
 ## 📫 Contact
-- Email: **2023302143001@whu.edu.cn**
-- GitHub: **https://github.com/BohanSu**
-- Website: **https://BohanSu.github.io**
-- Resume: [Bohan_Su_CV_en.pdf](https://BohanSu.github.io/files/Bohan_Su_CV_en.pdf)
+- Email: **[2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)**
+- GitHub: **[BohanSu](https://github.com/BohanSu)**
+- Website: **[BohanSu.github.io](https://BohanSu.github.io)**
+- English Resume: **[CV PDF](https://BohanSu.github.io/files/Bohan_Su_CV_en.pdf)**
+- Chinese Resume: **[中文简历 PDF](https://BohanSu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf)**
