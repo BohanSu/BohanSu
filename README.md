@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&pause=1000&color=2334D0&center=true&vCenter=true&width=1100&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission+%7C+PEARL+(EMNLP+Target)+%7C+TPAMI+Survey;Computer+Vision+%7C+Structured+Reasoning+%7C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&pause=1000&color=2334D0&center=true&vCenter=true&width=1100&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission+%7C+PEARL+(AAAI+Target)+%7C+TPAMI+Survey;Computer+Vision+%7C+Structured+Reasoning+%7C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)+%7C+MCM+2026+Finalist" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 
   <p>
@@ -31,7 +31,8 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 ## 🗓 Recent Updates
 - **2026.04** — TPAMI appearance-variation ReID survey §2–§8 drafted with **231 references**; §1 introduction and literature alignment still iterating.
 - **2026.03** — Submitted *Reliability-Aware 3D Geometric Injection for Universal Person Re-identification* to **ECCV 2026**.
-- **2026.03** — PEARL mainline pipeline ready: `graph_spec` IR, validator, compiler, issue-list repair, and joint-score evaluation are in place; Gate B local checks passed and Phase 3–5 main experiments are queued.
+- **2026.03** — PEARL mainline pipeline ready: `graph_spec` IR, validator, compiler, issue-list repair, and joint-score evaluation are in place; targeting **AAAI** submission.
+- **2026.02** — *SmartPhone Battery: The Moment of Depletion* earned **MCM 2026 Finalist Award** with dual-branch ECM-EKF + PINN approach.
 - **2025.11** — Built an A2A-protocol multi-agent system on Holos with routing, validation, fallback, and observability for end-to-end task demos.
 
 ---
@@ -44,12 +45,12 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 - **Contributions:** Proposed **UniGeo**, decoupled SMPL parameters into global shape and joint topology, introduced a **Reliability-Aware Gate**, and designed adaptive residual fusion between 2D visual features and 3D structural features.
 - **Evidence:** Unified training, comparisons, ablations, gate-correlation analysis, fusion-complexity checks, and perturbation-stability verification across **9 benchmarks**.
 
-### 2. PEARL: Decoupling Generation from Verification for Small-Model Scientific Reasoning Graph Extraction
-- **Status:** Ongoing, target submission to **EMNLP** (2026.03 – present)
-- **Problem:** ARCHE's Peircean scientific reasoning graph extraction mixes structure learning with DOT syntax generation and diagnosis with repair, making small models brittle.
-- **Contributions:** Designed the **`graph_spec` intermediate representation**, validator, compiler, issue-list repair loop, and joint-score evaluation pipeline; a 4B Qwen student handles generation while structural checking and repair are externalized.
-- **Training plan:** Five-teacher quality-weighted SFT plus Smart Prompt, targeting majority-teacher advantage on joint-score.
-- **Progress:** Phase 1 mainline code is ready; Gate B local three metrics passed; Phase 3–5 main experiments are queued.
+### 2. PEARL: Verifiable Curation and Small-Model Learning for Scientific Reasoning Graph Extraction
+- **Status:** Ongoing, target submission to **AAAI** (2026.03 – present)
+- **Framework:** Positioned as a complete framework for scientific reasoning graph extraction, organized around "generation-verification decoupling" with training-free data construction layer and student SFT layer.
+- **Contributions:** Designed **`graph_spec` intermediate representation** and two-stage semantic-closure workflow in training-free layer; introduced LoRA training pipeline with curriculum learning (nodes → reasoning units → graph_spec → DOT) for small models like Qwen3.5-4B in student SFT layer.
+- **Training plan:** Curriculum learning with high-quality supervision from PEARL-produced graphs targeting small-model scientific reasoning graph generation.
+- **Progress:** Phase 1 mainline code ready; Gate B local metrics passed; main experiments in progress.
 
 ### 3. Appearance Variations in Person Re-Identification: A Survey
 - **Status:** Ongoing, **TPAMI survey preparation** (2026.03 – present)
@@ -71,14 +72,22 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 - Built **150+** real interaction samples covering **6 domains** and **16 apps**; designed Guide, Discern, and Validate collaboration.
 - On China Unicom real-world tasks, the system reached **64.68% completion rate** and outperformed baselines such as MobileAgent-V2, MobA, and GUI-Explorer on key metrics.
 
+### Xiaomi Quadruped Robot Intelligent Logistics Delivery System (2025.03 – 2025.08)
+- Built a complete logistics delivery system on **Xiaomi Quadruped Development Platform** for complex-environment scenarios.
+- Decomposed delivery tasks into departure, pickup, path navigation, storage identification, unloading, return, and secondary delivery stages.
+- Focused on state transitions, action timing coordination, and reducing failure propagation to improve closed-loop completion rate within time constraints.
+- Result: **National Third Prize** in National University Computer System Capability Competition (Xiaomi Cup).
+
 ### A2A Protocol Multi-Agent System Development (2025.11.08 – 2025.11.10)
 - Built a multi-agent system on **Holos** and **A2A v0.3.0** for uncertain-requirement scenarios.
 - Implemented GuideAgent, DiscernAgent, and **8 functional agents**, covering requirement clarification, decomposition, execution, and verification.
 - Completed protocol adaptation, SSE streaming response, task-fingerprint deduplication, LLM/rule fallback, and observability debugging for travel-planning and email-collaboration demos.
 
-### Digital Legacy Interactive Exhibition System (2024.10 – 2025.06)
-- Participated in the design and development of a **3D interaction module** for digital memory preservation and virtual-asset revitalization.
-- Built a **Unity3D** interactive prototype and contributed interaction logic and scene-expression design for project showcases and roadshows.
+### SmartPhone Battery: The Moment of Depletion (2026.01 – 2026.02)
+- Built a unified physical layer mapping screen, CPU/GPU, communication, and sensor loads to total power consumption, constrained by coulomb-counting dynamics and thermal equilibrium.
+- Implemented dual-branch solvers: **2RC equivalent circuit model + Extended Kalman Filter (ECM-EKF)** for real-time SOC estimation and drift correction; **PINN** with identical dynamics in loss function for nonlinear fitting and factor attribution.
+- Validated on 8 heterogeneous data sources with over 120,000 time steps, achieving PINN SOC RMSE of 1.24% and overall TTE prediction MAPE of 8.7%.
+- Result: **MCM 2026 Finalist Award**.
 
 ---
 
@@ -93,8 +102,10 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 ## 🏆 Selected Awards & Honors
 - **National University IoT Design Competition (Huawei Cup)** — National First Prize (**Top 6**)
 - **China Youth Sci-Tech Innovation Challenge** — National Second Prize
-- **National University Computer System Capability Competition** — National Third Prize
-- **MCM/ICM** — Honorable Mention
+- **National University Computer System Capability Competition (Xiaomi Cup)** — National Third Prize
+- **MCM 2026** — **Finalist**
+- **MCM 2025** — Honorable Mention
+- **CUMCM Hubei Division** — Second Prize
 - **Zheng Geru First-Class Scholarship** — ranked **1st** in the grade-level defense and sole recipient
 - **Wuhan University First-Class Scholarship** — twice
 - **Merit Student** — twice
