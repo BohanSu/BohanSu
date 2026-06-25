@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&pause=1000&color=2334D0&center=true&vCenter=true&width=1100&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Submission+%7C+PEARL+(AAAI+Target)+%7C+TPAMI+Survey;Computer+Vision+%7C+Structured+Reasoning+%7C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)+%7C+MCM+2026+Finalist" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&pause=1000&color=2334D0&center=true&vCenter=true&width=1100&lines=Software+Engineering+Student+%40+Wuhan+University;ECCV+2026+Accepted+%7C+WAICA+Workshop+Accepted+%7C+TPAMI+Survey;Computer+Vision+%7C+Structured+Reasoning+%7C+Multi-Agent+Systems;National+IoT+Contest+1st+Prize+(Top+6)+%7C+MCM+2026+Finalist" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 
   <p>
@@ -29,9 +29,9 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 ---
 
 ## 🗓 Recent Updates
+- **2026.06** — *Reliability-Aware 3D Geometric Injection for Universal Person Re-identification* was **accepted to ECCV 2026**.
 - **2026.04** — TPAMI appearance-variation ReID survey §2–§8 drafted with **231 references**; §1 introduction and literature alignment still iterating.
-- **2026.03** — Submitted *Reliability-Aware 3D Geometric Injection for Universal Person Re-identification* to **ECCV 2026**.
-- **2026.03** — PEARL mainline pipeline ready: `graph_spec` IR, validator, compiler, issue-list repair, and joint-score evaluation are in place; targeting **AAAI** submission.
+- **2026.03** — PEARL workshop version was accepted by **WAICA Workshop**; the full extension now targets **AAAI**.
 - **2026.02** — *SmartPhone Battery: The Moment of Depletion* earned **MCM 2026 Finalist Award** with dual-branch ECM-EKF + PINN approach.
 - **2025.11** — Built an A2A-protocol multi-agent system on Holos with routing, validation, fallback, and observability for end-to-end task demos.
 
@@ -40,17 +40,17 @@ I am an undergraduate in **Software Engineering** at **Wuhan University**. My wo
 ## 🔬 Research & Ongoing Work
 
 ### 1. Reliability-Aware 3D Geometric Injection for Universal Person Re-identification
-- **Status:** ECCV 2026 submission (2025.10 – 2026.03)
+- **Status:** **ECCV 2026 accepted** (2025.10 – 2026.03)
 - **Focus:** Universal ReID under occlusion, clothing change, and cross-modality, with monocular 3D geometry treated as conditionally useful evidence rather than an always-trusted auxiliary.
 - **Contributions:** Proposed **UniGeo**, decoupled SMPL parameters into global shape and joint topology, introduced a **Reliability-Aware Gate**, and designed adaptive residual fusion between 2D visual features and 3D structural features.
 - **Evidence:** Unified training, comparisons, ablations, gate-correlation analysis, fusion-complexity checks, and perturbation-stability verification across **9 benchmarks**.
 
 ### 2. PEARL: Verifiable Curation and Small-Model Learning for Scientific Reasoning Graph Extraction
-- **Status:** Ongoing, target submission to **AAAI** (2026.03 – present)
+- **Status:** **WAICA Workshop accepted**; extended version targeting **AAAI** (2026.03 – present)
 - **Framework:** Positioned as a complete framework for scientific reasoning graph extraction, organized around "generation-verification decoupling" with training-free data construction layer and student SFT layer.
 - **Contributions:** Designed **`graph_spec` intermediate representation** and two-stage semantic-closure workflow in training-free layer; introduced LoRA training pipeline with curriculum learning (nodes → reasoning units → graph_spec → DOT) for small models like Qwen3.5-4B in student SFT layer.
 - **Training plan:** Curriculum learning with high-quality supervision from PEARL-produced graphs targeting small-model scientific reasoning graph generation.
-- **Progress:** Phase 1 mainline code ready; Gate B local metrics passed; main experiments in progress.
+- **Progress:** Workshop version accepted; Phase 1 mainline code ready, Gate B local metrics passed, and the full AAAI extension is in progress.
 
 ### 3. Appearance Variations in Person Re-Identification: A Survey
 - **Status:** Ongoing, **TPAMI survey preparation** (2026.03 – present)
