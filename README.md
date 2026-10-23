@@ -1,56 +1,61 @@
-<h1 align="center">Bohan Su · 苏渤涵</h1>
+# Bohan Su · 苏渤涵
 
-<p align="center">Software Engineering undergraduate at Wuhan University</p>
-<p align="center"><strong>Actively seeking research collaborations and RA opportunities.</strong></p>
-<p align="center">
-  <a href="https://bohansu.github.io/">Homepage</a> ·
-  <a href="mailto:2023302143001@whu.edu.cn">Email</a> ·
-  <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf">CV</a> ·
-  <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
-</p>
+**Software Engineering @ Wuhan University · Class of 2027**
+Structured representations for **computer vision** and **scientific reasoning**.
 
-## About
+[Homepage](https://bohansu.github.io/en/) · [中文主页](https://bohansu.github.io/) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
 
-I am interested in LLM reasoning and machine learning, particularly the use of structured representations and reasoning enhancement in computer vision and scientific problem solving. My recent work covers person re-identification, scientific reasoning graphs, and systems that operate under real-world constraints.
+I study how structured evidence can make visual representations and reasoning more reliable. My work spans person re-identification, verifiable scientific reasoning graphs, and agent and robotic systems. I contribute to experiment design, failure analysis, implementation, and research writing.
 
-Across these projects, I have worked on problem formulation, experimental protocols, failure-case analysis, system implementation, and paper writing. I am actively seeking research collaborations and RA opportunities where I can contribute in these areas.
+**Open to research collaborations and RA opportunities** in computer vision, structured reasoning, and multi-agent systems.
 
-## Current Research
+## Research
 
-### Reliability-Aware 3D Geometric Injection for Universal Person Re-identification
+### UniGeo · Reliability-aware 3D geometry for person ReID
 
-**First author · Accepted to ECCV 2026 · Oct 2025–Mar 2026**
+**ECCV 2026 accepted · Co-first author, listed first**
 
-This work studies person re-identification when appearance cues become unreliable because of occlusion, clothing changes, or cross-modality. We introduce monocular 3D body geometry as a complementary cue and use a reliability-aware gate to reduce the effect of low-confidence geometry estimates. The method was evaluated through comparisons, ablations, and perturbation tests on nine ReID benchmarks.
+[**Reliability-Aware 3D Geometric Injection for Universal Person Re-identification**](https://bohansu.github.io/en/#research-unigeo)
 
-### PEARL: Verifiable Curation and Small-Model Learning for Scientific Reasoning Graph Extraction
+Uses monocular 3D body geometry as complementary evidence, with a reliability-aware gate that suppresses low-confidence geometry. Evaluated through comparisons, ablations, and perturbation tests on **nine ReID benchmarks**.
 
-**First author · WAICA Workshop version accepted · Mar 2026–present**
+[Code](https://github.com/BohanSu/UniGeo) · [Research overview](https://bohansu.github.io/en/#research-unigeo)
 
-PEARL separates model-generated reasoning graphs from code-based checks for structure, compilation, and source alignment. The preliminary version has been accepted to the WAICA Workshop. The current extension uses curated graphs to train smaller models and is being developed toward an AAAI submission.
+### PEARL · Verifiable scientific reasoning graphs
+
+**First author · Preliminary version accepted to WAICA Workshop · Extension in progress**
+
+Separates model-generated graph candidates from checks for structure, compilation, and source alignment. The extension explores learning with smaller models from curated graphs, toward an AAAI submission.
+
+[Research overview](https://bohansu.github.io/en/#research-pearl)
 
 ### Appearance Variations in Person Re-Identification: A Survey
 
-**First author · In progress, targeting TPAMI · Mar 2026–present**
+**First author · In progress, targeting TPAMI**
 
-The survey reorganizes appearance variation into short-term perturbations, long-term changes, and compound variations. It also distinguishes appearance robustness from appearance generalization to examine how existing methods and benchmarks cover clothing changes, occlusion, cross-modality, and long-term deployment. Writing, model fine-tuning, and testing are ongoing.
+Organizes the field around short-term perturbations, long-term changes, and compound variations. Examines methods and evaluation through appearance robustness and generalization; writing and experiments are ongoing.
 
-## Selected Project Experience
+[Research overview](https://bohansu.github.io/en/#research-survey)
 
-- **Modular Robot System:** Responsible for module coordination, bus arbitration, hot-plug discovery, and bus merging. The system reached a 98.5% communication success rate and improved communication efficiency by about 40% over the original design. The project received a National First Prize and placed in the Top 6 at the National University IoT Design Competition.
+## Selected systems & modeling
 
-- **A4R Guided Smartphone AI Assistant:** Co-designed a clarify-execute-verify workflow and built more than 150 interactions across six domains and 16 applications. The system achieved a 64.68% completion rate and a 72.33% effective-guidance rate on China Unicom tasks, and the project received a national second prize.
+| Project | My contribution and project results |
+| --- | --- |
+| **Modular Robot System** | Module coordination, bus arbitration, hot-plug discovery, and bus merging. **98.5%** communication success; approximately **40%** efficiency improvement over the original design. National IoT Design Competition **First Prize, Top 6**. |
+| **A4R Smartphone AI Assistant** | Co-designed a clarify–execute–verify workflow; built **150+** interactions across **16 apps**. **64.68%** task completion and **72.33%** effective guidance on China Unicom tasks. National Second Prize. |
+| **SmartPhone Battery: The Moment of Depletion** | Combined physical modeling with ECM-EKF and physics-informed neural networks. Across eight data sources and 120,000+ time steps: **1.24% SOC RMSE**, **8.7% TTE MAPE**. **MCM 2026 Finalist**. |
+| **A2A Multi-Agent System** | Implemented clarification, protocol adaptation, streaming, context propagation, fallbacks, and logging on Holos and A2A v0.3.0 for travel-planning and email-collaboration demos. |
 
-- **SmartPhone Battery: The Moment of Depletion:** Combined a physical battery model with ECM-EKF and physics-informed neural-network solvers. Across eight data sources and more than 120,000 time steps, SOC RMSE was 1.24% and overall TTE MAPE was 8.7%. The project received the 2026 MCM Finalist Award.
+[More project experience, including quadruped robotics →](https://bohansu.github.io/en/#projects)
 
-- **A2A Multi-Agent System:** Implemented requirement clarification, protocol adaptation, streaming responses, context propagation, fallback handling, and logging on Holos and A2A v0.3.0 for end-to-end travel-planning and email-collaboration demos.
+## Education & recognition
 
-## Education and Recognition
+**Wuhan University** · BEng student in Software Engineering · Sep 2023–Jun 2027 (expected)
+**GPA: 3.75 / 4.0**
 
-- **Wuhan University**, Bachelor's student in Software Engineering, Sep 2023–Jun 2027 (expected)
-- **GPA:** 3.75 / 4.0
-- **Selected recognition:** National First Prize (Top 6) in the National University IoT Design Competition; National Second Prize in the China Youth Sci-Tech Innovation Challenge; Xiaomi Cup National Third Prize; MCM 2026 Finalist; Zheng Geru First-Class Scholarship, ranked first in the grade-level defense; Wuhan University First-Class Scholarship twice
+- **Machine Learning for Computer Vision:** 93.10 / 100, A+ — ITSTP, Spring 2025 (non-degree course).
+- **Zheng Geru First-Class Scholarship**, ranked first in the grade-level defense.
+- **Wuhan University First-Class Scholarship** and **Merit Student**, twice each.
+- **Xiaomi Cup National Third Prize**, alongside the project awards above.
 
-## Contact
-
-I am actively seeking research collaborations and RA opportunities, especially in computer vision, structured reasoning, and multi-agent systems. Please feel free to contact me at [2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn).
+For research opportunities, please write to **[2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)**.
