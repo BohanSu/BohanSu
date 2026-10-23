@@ -1,3 +1,7 @@
+<p align="center">
+  <picture><img src="assets/visuals/research-banner.svg?v=e540a534" width="960" alt=""></picture>
+</p>
+
 <h1 align="center">Bohan Su · 苏渤涵</h1>
 
 <p align="center">
@@ -5,16 +9,18 @@
   Software Engineering undergraduate · Class of 2027
 </p>
 
+<p align="center"><sub>Research interests</sub></p>
+
 <p align="center">
-  Research interests<br>
-  <strong>World models · Multimodal foundation models</strong>
+  <picture><img src="assets/visuals/topic-world.svg?v=3958a69c" alt="World models" width="144" height="32"></picture>
+  <picture><img src="assets/visuals/topic-multimodal.svg?v=80e96f4d" alt="Multimodal foundation models" width="228" height="32"></picture>
 </p>
 
 <p align="center">
-  <a href="https://bohansu.github.io/en/"><img src="assets/icons/link-home.svg" alt="Homepage" width="130" height="34"></a>
-  <a href="https://scholar.google.com/citations?user=QXCpAoIAAAAJ&amp;hl=zh-CN"><img src="assets/icons/link-scholar.svg" alt="Google Scholar" width="130" height="34"></a>
-  <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf"><img src="assets/icons/link-cv.svg" alt="CV" width="130" height="34"></a>
-  <a href="mailto:2023302143001@whu.edu.cn"><img src="assets/icons/link-mail.svg" alt="Email" width="130" height="34"></a>
+  <a href="https://bohansu.github.io/en/"><img src="assets/icons/link-home.svg?v=bfaf170b" alt="Homepage" width="128" height="38"></a>
+  <a href="https://scholar.google.com/citations?user=QXCpAoIAAAAJ&amp;hl=zh-CN"><img src="assets/icons/link-scholar.svg?v=e4191c52" alt="Google Scholar" width="128" height="38"></a>
+  <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf"><img src="assets/icons/link-cv.svg?v=94ff093c" alt="CV" width="128" height="38"></a>
+  <a href="mailto:2023302143001@whu.edu.cn"><img src="assets/icons/link-mail.svg?v=f86d7ac7" alt="Email" width="128" height="38"></a>
 </p>
 
 <p align="center">
@@ -22,7 +28,7 @@
   <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
 </p>
 
-## <picture><img src="assets/icons/scholar.svg" width="24" height="24" alt=""></picture> Education
+## <picture><img src="assets/icons/scholar.svg?v=47bfc45c" width="24" height="24" alt=""></picture> Education
 
 ### Wuhan University
 
@@ -40,7 +46,7 @@ CET-6: 506 (Dec 2024) · CET-4: 595 (Jun 2024)
 
 </details>
 
-## <picture><img src="assets/icons/research.svg" width="24" height="24" alt=""></picture> Publications & research
+## <picture><img src="assets/icons/research.svg?v=27a432ea" width="24" height="24" alt=""></picture> Publications & research
 
 ### UniGeo
 
@@ -95,7 +101,7 @@ A taxonomy of short-term, long-term and compound appearance variations, examinin
 
 [Research overview](https://bohansu.github.io/en/#research-survey)
 
-## <picture><img src="assets/icons/code.svg" width="24" height="24" alt=""></picture> Selected projects
+## <picture><img src="assets/icons/code.svg?v=02d42070" width="24" height="24" alt=""></picture> Selected projects
 
 - **SmartPhone Battery: The Moment of Depletion** — Physical battery modeling with ECM-EKF and physics-informed neural networks; MCM 2026 Finalist.
 - **A2A Multi-Agent System** — Protocol adaptation, streaming, context propagation and fallback handling; Shanghai Innovation Institute autumn camp project.
@@ -105,7 +111,7 @@ A taxonomy of short-term, long-term and compound appearance variations, examinin
 
 [Project details](https://bohansu.github.io/en/#projects) · [All public repositories](https://github.com/BohanSu?tab=repositories)
 
-## <picture><img src="assets/icons/award.svg" width="24" height="24" alt=""></picture> Selected honors
+## <picture><img src="assets/icons/award.svg?v=3bb6046e" width="24" height="24" alt=""></picture> Selected honors
 
 - **2026 · MCM Finalist**
 - **2025 · National University IoT Design Competition** — National Finals · First Prize; final six
