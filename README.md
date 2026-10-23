@@ -4,85 +4,99 @@
 
 Research interests: **world models** and **multimodal foundation models**.
 
-[Homepage](https://bohansu.github.io/en/) · [中文主页](https://bohansu.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=QXCpAoIAAAAJ&hl=zh-CN) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
+<p>
+  <a href="https://bohansu.github.io/en/"><img src="assets/icons/link-home.svg" alt="Homepage" width="130" height="34"></a>
+  <a href="https://scholar.google.com/citations?user=QXCpAoIAAAAJ&amp;hl=zh-CN"><img src="assets/icons/link-scholar.svg" alt="Google Scholar" width="130" height="34"></a>
+  <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf"><img src="assets/icons/link-cv.svg" alt="CV" width="130" height="34"></a>
+  <a href="mailto:2023302143001@whu.edu.cn"><img src="assets/icons/link-mail.svg" alt="Email" width="130" height="34"></a>
+</p>
 
-## Education
+[中文主页](https://bohansu.github.io/) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf)
+
+## <picture><img src="assets/icons/scholar.svg" width="24" height="24" alt=""></picture> Education
 
 ### Wuhan University
 
-Undergraduate in Software Engineering · School of Computer Science · 2023.09–2027.06 (expected)
+Software Engineering · School of Computer Science<br>
+2023.09–2027.06 (expected) · **GPA: 3.75 / 4.0** (July 2026 transcript)
 
-- GPA: 3.75 / 4.0 (July 2026 transcript)
-- CET-6: 506 (Dec 2024); CET-4: 595 (Jun 2024)
+<details>
+<summary>Additional coursework & language scores</summary>
 
-#### Additional coursework
+**Innovative Talents Science Training Program (ITSTP)** · 2025.03–2025.05<br>
+Machine Learning for Computer Vision · Non-degree course<br>
+93.10 / 100 (A+); 54 class hours. Instructor: Jens Rittscher, University of Oxford; lectures and coursework in English.
 
-**Innovative Talents Science Training Program (ITSTP)**
+CET-6: 506 (Dec 2024) · CET-4: 595 (Jun 2024)
 
-Machine Learning for Computer Vision · Non-degree course · 2025.03–2025.05
+</details>
 
-- Grade: 93.10 / 100 (A+); 54 class hours
-- Instructor: Jens Rittscher, University of Oxford; lectures and coursework in English
+## <picture><img src="assets/icons/research.svg" width="24" height="24" alt=""></picture> Publications & research
 
-## Publications & research
+### UniGeo
 
-### [Reliability-Aware 3D Geometric Injection for Universal Person Re-identification](https://arxiv.org/abs/2607.18863)
+[**Reliability-Aware 3D Geometric Injection for Universal Person Re-identification**](https://arxiv.org/abs/2607.18863)<br>
+ECCV 2026 · **Co-first author (listed first)**
 
-**ECCV 2026 · Co-first author (listed first)**
-
-UniGeo uses monocular 3D body geometry as complementary evidence for person re-identification. A reliability-aware gate limits the influence of low-confidence geometric estimates. Evaluation covers comparisons, ablations, and perturbation tests on nine benchmarks.
+Reliability-aware injection of monocular 3D body geometry for person re-identification, evaluated on nine benchmarks.
 
 [Paper](https://arxiv.org/abs/2607.18863) · [PDF](https://arxiv.org/pdf/2607.18863) · [Code](https://github.com/BohanSu/UniGeo) · [Publisher](https://link.springer.com/chapter/10.1007/978-3-032-37035-8_32)
 
-### [PEARL: Auditable Repair for Scientific Reasoning Graph Extraction](https://arxiv.org/abs/2607.17917)
+<details>
+<summary>UniGeo framework</summary>
 
-**WAICA 2026 Workshop · Co-first author (listed first)**
+[![UniGeo framework: appearance and geometric features combined through a reliability-aware gate.](https://bohansu.github.io/images/research/unigeo-framework.png)](https://arxiv.org/abs/2607.18863)
 
-PEARL combines structural constraints with evaluator feedback to identify and repair structural and semantic issues in scientific reasoning graphs, with records that support inspection and tracing.
+Source: [Su et al., 2026](https://arxiv.org/abs/2607.18863) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+</details>
+
+### PEARL
+
+[**PEARL: Auditable Repair for Scientific Reasoning Graph Extraction**](https://arxiv.org/abs/2607.17917)<br>
+WAICA 2026 Workshop · **Co-first author (listed first)**
+
+Structural constraints and evaluator feedback for repairing scientific reasoning graphs, with inspectable records of the repair process.
 
 [Paper](https://arxiv.org/abs/2607.17917) · [PDF](https://arxiv.org/pdf/2607.17917) · [Code](https://github.com/BohanSu/auditable-repair-reasoning-graphs/tree/300-350_workshop)
 
+<details>
+<summary>PEARL framework</summary>
+
+[![PEARL framework: extraction, evaluation and auditable repair of scientific reasoning graphs.](https://bohansu.github.io/images/research/pearl-framework.png)](https://arxiv.org/abs/2607.17917)
+
+Source: [Su et al., 2026](https://arxiv.org/abs/2607.17917) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+</details>
+
 ### Appearance Variations in Person Re-Identification: A Survey
 
-**Research manuscript · First author**
+Research manuscript · **First author**
 
-This survey organizes person re-identification research around short-term perturbations, long-term appearance changes, and compound variations. It examines methods and evaluation protocols through appearance robustness and generalization.
+A taxonomy of short-term, long-term and compound appearance variations, examining methods and evaluation through robustness and generalization.
 
 [Research overview](https://bohansu.github.io/en/#research-survey)
 
-## Projects
+## <picture><img src="assets/icons/code.svg" width="24" height="24" alt=""></picture> Selected projects
 
-### SmartPhone Battery: The Moment of Depletion
+- **SmartPhone Battery: The Moment of Depletion** — Physical battery modeling with ECM-EKF and physics-informed neural networks; MCM 2026 Finalist.
+- **A2A Multi-Agent System** — Protocol adaptation, streaming, context propagation and fallback handling; Shanghai Innovation Institute autumn camp project.
+- **A4R: Guided Smartphone AI Assistant** — Co-designed a clarify–execute–verify workflow spanning six domains and 16 apps; Challenge Cup — Jiebang Guashuai Special Competition, second prize.
+- **Xiaomi Quadruped Logistics System** — System design, algorithm debugging and delivery workflow testing; Xiaomi Cup national third prize.
+- **Modular Robot System** — Module coordination, bus arbitration, hot-plug discovery and bus merging; National University IoT Design Competition, national first prize and final six.
 
-2026.01–2026.02 · Mathematical Contest in Modeling, Finalist
+[Project details](https://bohansu.github.io/en/#projects) · [All public repositories](https://github.com/BohanSu?tab=repositories)
 
-Combined a physical battery model with ECM-EKF and physics-informed neural network solvers. Evaluation covered eight types of data and more than 120,000 time steps, with 1.24% SOC RMSE and 8.7% TTE MAPE.
+## <picture><img src="assets/icons/award.svg" width="24" height="24" alt=""></picture> Selected honors
 
-### A2A Multi-Agent System
+- **2026 · MCM Finalist**
+- **2025 · National University IoT Design Competition** — National Finals · First Prize; final six
+- **2025 · Challenge Cup — Jiebang Guashuai Special Competition** — Second Prize
+- **2024–2025 · Zheng Geru Scholarship** — First Class
+- **2023–2025 · First-Class Scholarship for Outstanding Students, Wuhan University** — Two consecutive academic years
 
-2025.11 · Shanghai Innovation Institute, autumn camp project
-
-Implemented protocol adaptation, streaming responses, context propagation, fallback handling, and logging on Holos and A2A v0.3.0. Integrated travel-planning and email-collaboration demos.
-
-### A4R: Guided Smartphone AI Assistant
-
-2025.05–2025.08 · Challenge Cup — Jiebang Guashuai Special Competition, second prize
-
-Co-designed a clarify–execute–verify workflow and built more than 150 interactions spanning six domains and 16 apps. In the China Unicom task evaluation, completion was 64.68% and effective guidance was 72.33%.
-
-### Xiaomi Quadruped Logistics System
-
-2025.03–2025.08 · Xiaomi Cup national third prize
-
-Contributed to system design, algorithm debugging, workflow optimization, and on-site testing, focusing on state transitions and action timing between delivery stages.
-
-### Modular Robot System
-
-2023.11–2025.08 · National University IoT Design Competition, national first prize and final six
-
-Implemented module coordination, bus arbitration, hot-plug discovery, and bus merging. Project tests reported 98.5% communication success and approximately 40% higher communication efficiency than the original design.
-
-## Honors & awards
+<details>
+<summary>All honors & awards · 18 entries</summary>
 
 ### Competitions
 
@@ -111,8 +125,10 @@ Implemented module coordination, bus arbitration, hot-plug discovery, and bus me
 - **2024 · Award for Outstanding Participation in University Sports, Wuhan University**
 - **2024 · Outstanding Young Volunteer during the Cherry Blossom Season, Wuhan University**
 
+</details>
+
 ## Contact
 
-I am interested in research collaborations and research assistant opportunities in world models and multimodal foundation models. Please contact me by email.
+I welcome research collaborations and research assistant opportunities in world models and multimodal foundation models.
 
 [2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)
