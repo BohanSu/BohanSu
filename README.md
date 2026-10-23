@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><img src="assets/visuals/research-banner.svg?v=e540a534" width="960" alt=""></picture>
+  <picture><img src="assets/visuals/research-banner.svg?v=e540a534" width="1440" height="280" alt=""></picture>
 </p>
 
 <h1 align="center">Bohan Su · 苏渤涵</h1>
