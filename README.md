@@ -146,7 +146,7 @@ A taxonomy of short-term, long-term and compound appearance variations, examinin
 ### Sports & volunteering
 
 - **2025 · Hubei Orienteering and Radio Direction-Finding Championships** — M21-A: second in 3.5 MHz direction finding; third in the individual all-around event
-- **2024 · Award for Outstanding Participation in University Sports, Wuhan University**
+- **2024–2025 · Award for Outstanding Participation in University Sports, Wuhan University** — Awarded in both 2024 and 2025
 - **2024 · Outstanding Young Volunteer during the Cherry Blossom Season, Wuhan University**
 
 </details>
