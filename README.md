@@ -1,61 +1,116 @@
 # Bohan Su · 苏渤涵
 
-**Software Engineering @ Wuhan University · Class of 2027**
+**Software Engineering undergraduate · Wuhan University · Class of 2027**
+
 Research interests: **world models** and **multimodal foundation models**.
 
-[Homepage](https://bohansu.github.io/en/) · [Google Scholar](https://scholar.google.com/citations?user=QXCpAoIAAAAJ&hl=zh-CN) · [中文主页](https://bohansu.github.io/) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
+[Homepage](https://bohansu.github.io/en/) · [中文主页](https://bohansu.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=QXCpAoIAAAAJ&hl=zh-CN) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
 
-My research interests are world models and multimodal foundation models. My previous work spans person re-identification, verifiable scientific reasoning graphs, and agent and robotic systems. I contribute to experiment design, failure analysis, implementation, and research writing.
+## Education
 
-**Open to research collaborations and RA opportunities** in world models and multimodal foundation models.
+### Wuhan University
 
-## Selected research
+Undergraduate in Software Engineering · School of Computer Science · 2023.09–2027.06 (expected)
 
-### UniGeo · Reliability-aware 3D geometry for person ReID
+- GPA: 3.75 / 4.0 (July 2026 transcript)
+- CET-6: 506 (Dec 2024); CET-4: 595 (Jun 2024)
 
-**ECCV 2026 accepted · Co-first author, listed first**
+### Innovative Talents Science Training Program (ITSTP)
 
-[**Reliability-Aware 3D Geometric Injection for Universal Person Re-identification**](https://arxiv.org/abs/2607.18863)
+Machine Learning for Computer Vision · Non-degree course · 2025.03–2025.05
 
-Uses monocular 3D body geometry as complementary evidence, with a reliability-aware gate that suppresses low-confidence geometry. Evaluated through comparisons, ablations, and perturbation tests on **nine ReID benchmarks**.
+- Grade: 93.10 / 100 (A+); 54 class hours
+- Instructor: Jens Rittscher, University of Oxford; lectures and coursework in English
+
+## Publications & research
+
+### [Reliability-Aware 3D Geometric Injection for Universal Person Re-identification](https://arxiv.org/abs/2607.18863)
+
+**ECCV 2026 · Co-first author (listed first)**
+
+UniGeo uses monocular 3D body geometry as complementary evidence for person re-identification. A reliability-aware gate limits the influence of low-confidence geometric estimates. Evaluation covers comparisons, ablations, and perturbation tests on nine benchmarks.
 
 [Paper](https://arxiv.org/abs/2607.18863) · [PDF](https://arxiv.org/pdf/2607.18863) · [Code](https://github.com/BohanSu/UniGeo) · [Publisher](https://link.springer.com/chapter/10.1007/978-3-032-37035-8_32)
 
+### [PEARL: Auditable Repair for Scientific Reasoning Graph Extraction](https://arxiv.org/abs/2607.17917)
+
+**WAICA 2026 Workshop · Co-first author (listed first)**
+
+PEARL combines structural constraints with evaluator feedback to identify and repair structural and semantic issues in scientific reasoning graphs, with records that support inspection and tracing.
+
+[Paper](https://arxiv.org/abs/2607.17917) · [PDF](https://arxiv.org/pdf/2607.17917) · [Code](https://github.com/BohanSu/auditable-repair-reasoning-graphs/tree/300-350_workshop)
+
 ### Appearance Variations in Person Re-Identification: A Survey
 
-**First author · In progress, targeting TPAMI**
+**Research manuscript · First author**
 
-Organizes the field around short-term perturbations, long-term changes, and compound variations. Examines methods and evaluation through appearance robustness and generalization; writing and experiments are ongoing.
+This survey organizes person re-identification research around short-term perturbations, long-term appearance changes, and compound variations. It examines methods and evaluation protocols through appearance robustness and generalization.
 
 [Research overview](https://bohansu.github.io/en/#research-survey)
 
-### [PEARL: Auditable Repair for Scientific Reasoning Graph Extraction](https://arxiv.org/abs/2607.17917)
+## Projects
 
-**WAICA 2026 Multi-Modal Agents for Science Workshop accepted · Co-first author, listed first**
+### SmartPhone Battery: The Moment of Depletion
 
-PEARL combines schema-constrained graph materialization with judge-feedback semantic repair, turning model-generated scientific reasoning graphs into auditable artifacts.
+2026.01–2026.02 · Mathematical Contest in Modeling, Finalist
 
-[Paper](https://arxiv.org/abs/2607.17917) · [PDF](https://arxiv.org/pdf/2607.17917) · [Code](https://github.com/BohanSu/auditable-repair-reasoning-graphs/tree/300-350_workshop) · [Research overview](https://bohansu.github.io/en/#research-pearl)
+Combined a physical battery model with ECM-EKF and physics-informed neural network solvers. Evaluation covered eight types of data and more than 120,000 time steps, with 1.24% SOC RMSE and 8.7% TTE MAPE.
 
-## Selected systems & modeling
+### A2A Multi-Agent System
 
-| Project | My contribution and project results |
-| --- | --- |
-| **Modular Robot System** | Module coordination, bus arbitration, hot-plug discovery, and bus merging. **98.5%** communication success; approximately **40%** efficiency improvement over the original design. National IoT Design Competition **First Prize, Top 6**. |
-| **A4R Smartphone AI Assistant** | Co-designed a clarify–execute–verify workflow; built **150+** interactions across **16 apps**. **64.68%** task completion and **72.33%** effective guidance on China Unicom tasks. National Second Prize. |
-| **SmartPhone Battery: The Moment of Depletion** | Combined physical modeling with ECM-EKF and physics-informed neural networks. Across eight data sources and 120,000+ time steps: **1.24% SOC RMSE**, **8.7% TTE MAPE**. **MCM 2026 Finalist**. |
-| **A2A Multi-Agent System** | Implemented clarification, protocol adaptation, streaming, context propagation, fallbacks, and logging on Holos and A2A v0.3.0 for travel-planning and email-collaboration demos. |
+2025.11 · Shanghai Innovation Institute, autumn camp project
 
-[More project experience, including quadruped robotics →](https://bohansu.github.io/en/#projects)
+Implemented protocol adaptation, streaming responses, context propagation, fallback handling, and logging on Holos and A2A v0.3.0. Integrated travel-planning and email-collaboration demos.
 
-## Education & recognition
+### A4R: Guided Smartphone AI Assistant
 
-**Wuhan University** · BEng student in Software Engineering · Sep 2023–Jun 2027 (expected)
-**GPA: 3.75 / 4.0**
+2025.05–2025.08 · Challenge Cup — Jiebang Guashuai Special Competition, second prize
 
-- **Machine Learning for Computer Vision:** 93.10 / 100, A+ — ITSTP, Spring 2025 (non-degree course).
-- **Zheng Geru First-Class Scholarship**, ranked first in the grade-level defense.
-- **Wuhan University First-Class Scholarship** and **Merit Student**, twice each.
-- **Xiaomi Cup National Third Prize**, alongside the project awards above.
+Co-designed a clarify–execute–verify workflow and built more than 150 interactions spanning six domains and 16 apps. In the China Unicom task evaluation, completion was 64.68% and effective guidance was 72.33%.
 
-For research opportunities, please write to **[2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)**.
+### Xiaomi Quadruped Logistics System
+
+2025.03–2025.08 · Xiaomi Cup national third prize
+
+Contributed to system design, algorithm debugging, workflow optimization, and on-site testing, focusing on state transitions and action timing between delivery stages.
+
+### Modular Robot System
+
+2023.11–2025.08 · National University IoT Design Competition, national first prize and final six
+
+Implemented module coordination, bus arbitration, hot-plug discovery, and bus merging. Project tests reported 98.5% communication success and approximately 40% higher communication efficiency than the original design.
+
+## Honors & awards
+
+### Competitions
+
+- **2026 · Mathematical Contest in Modeling (MCM)** — Finalist
+- **2026 · 19th National College Student Software Innovation Competition** — South China Regional Round · Third Prize
+- **2025 · National University IoT Design Competition** — National Finals · First Prize; qualified for the final six
+- **2025 · “Challenge Cup” — “Jiebang Guashuai” Special Competition** — Second Prize
+- **2025 · National College Student Computer System Capability Competition** — Intelligent System Innovation Design (Xiaomi Cup) · Third Prize
+- **2025 · China Undergraduate Mathematical Contest in Modeling (CUMCM)** — Hubei Division · Second Prize
+- **2025 · Mathematical Contest in Modeling (MCM)** — Honorable Mention
+- **2024 · National University IoT Design Competition (Huawei Cup)** — Central China and Southwest Division · First Prize
+- **2024 · 2023–2024 AIGC Student Employment and Entrepreneurship Competition** — Application Development Track · Preliminary Round · First Prize
+
+### Scholarships & university honors
+
+- **2024–2025 · Zheng Geru Scholarship** — First Class
+- **2023–2025 · First-Class Scholarship for Outstanding Students, Wuhan University** — Awarded in both 2023–2024 and 2024–2025
+- **2023–2025 · Merit Student, Wuhan University** — Awarded in both 2023–2024 and 2024–2025
+- **2024–2025 · Outstanding Student Leader, Wuhan University**
+- **2025 · Award for Outstanding Contributions to Extracurricular Science, Technology, Innovation and Entrepreneurship Competitions, Wuhan University**
+- **2025–2026 · Award for Outstanding Participation in Student Activities, Wuhan University**
+
+### Sports & volunteering
+
+- **2025 · Hubei Orienteering and Radio Direction-Finding Championships** — M21-A: second in 3.5 MHz direction finding; third in the individual all-around event
+- **2024 · Award for Outstanding Participation in University Sports, Wuhan University**
+- **2024 · Outstanding Young Volunteer during the Cherry Blossom Season, Wuhan University**
+
+## Contact
+
+I am interested in research collaborations and research assistant opportunities in world models and multimodal foundation models. Please contact me by email.
+
+[2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)
