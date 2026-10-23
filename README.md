@@ -3,7 +3,7 @@
 **Software Engineering @ Wuhan University · Class of 2027**
 Research interests: **world models** and **multimodal foundation models**.
 
-[Homepage](https://bohansu.github.io/en/) · [中文主页](https://bohansu.github.io/) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
+[Homepage](https://bohansu.github.io/en/) · [Google Scholar](https://scholar.google.com/citations?user=QXCpAoIAAAAJ&hl=zh-CN) · [中文主页](https://bohansu.github.io/) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
 
 My research interests are world models and multimodal foundation models. My previous work spans person re-identification, verifiable scientific reasoning graphs, and agent and robotic systems. I contribute to experiment design, failure analysis, implementation, and research writing.
 
@@ -15,11 +15,11 @@ My research interests are world models and multimodal foundation models. My prev
 
 **ECCV 2026 accepted · Co-first author, listed first**
 
-[**Reliability-Aware 3D Geometric Injection for Universal Person Re-identification**](https://bohansu.github.io/en/#research-unigeo)
+[**Reliability-Aware 3D Geometric Injection for Universal Person Re-identification**](https://arxiv.org/abs/2607.18863)
 
 Uses monocular 3D body geometry as complementary evidence, with a reliability-aware gate that suppresses low-confidence geometry. Evaluated through comparisons, ablations, and perturbation tests on **nine ReID benchmarks**.
 
-[Code](https://github.com/BohanSu/UniGeo) · [Research overview](https://bohansu.github.io/en/#research-unigeo)
+[Paper](https://arxiv.org/abs/2607.18863) · [PDF](https://arxiv.org/pdf/2607.18863) · [Code](https://github.com/BohanSu/UniGeo) · [Publisher](https://link.springer.com/chapter/10.1007/978-3-032-37035-8_32)
 
 ### Appearance Variations in Person Re-Identification: A Survey
 
@@ -29,13 +29,13 @@ Organizes the field around short-term perturbations, long-term changes, and comp
 
 [Research overview](https://bohansu.github.io/en/#research-survey)
 
-### PEARL · Verifiable scientific reasoning graphs
+### [PEARL: Auditable Repair for Scientific Reasoning Graph Extraction](https://arxiv.org/abs/2607.17917)
 
-**Previous work · First author · Preliminary version accepted to WAICA Workshop**
+**WAICA 2026 Multi-Modal Agents for Science Workshop accepted · Co-first author, listed first**
 
-PEARL explored verifiable scientific reasoning graph construction by combining model-generated candidates with checks for structure, compilation, and source alignment. Further development is no longer being pursued.
+PEARL combines schema-constrained graph materialization with judge-feedback semantic repair, turning model-generated scientific reasoning graphs into auditable artifacts.
 
-[Research overview](https://bohansu.github.io/en/#research-pearl)
+[Paper](https://arxiv.org/abs/2607.17917) · [PDF](https://arxiv.org/pdf/2607.17917) · [Code](https://github.com/BohanSu/auditable-repair-reasoning-graphs/tree/300-350_workshop) · [Research overview](https://bohansu.github.io/en/#research-pearl)
 
 ## Selected systems & modeling
 
