@@ -1,17 +1,26 @@
-# Bohan Su · 苏渤涵
+<h1 align="center">Bohan Su · 苏渤涵</h1>
 
-**Software Engineering undergraduate · Wuhan University · Class of 2027**
+<p align="center">
+  <strong>Wuhan University</strong><br>
+  Software Engineering undergraduate · Class of 2027
+</p>
 
-Research interests: **world models** and **multimodal foundation models**.
+<p align="center">
+  Research interests<br>
+  <strong>World models · Multimodal foundation models</strong>
+</p>
 
-<p>
+<p align="center">
   <a href="https://bohansu.github.io/en/"><img src="assets/icons/link-home.svg" alt="Homepage" width="130" height="34"></a>
   <a href="https://scholar.google.com/citations?user=QXCpAoIAAAAJ&amp;hl=zh-CN"><img src="assets/icons/link-scholar.svg" alt="Google Scholar" width="130" height="34"></a>
   <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf"><img src="assets/icons/link-cv.svg" alt="CV" width="130" height="34"></a>
   <a href="mailto:2023302143001@whu.edu.cn"><img src="assets/icons/link-mail.svg" alt="Email" width="130" height="34"></a>
 </p>
 
-[中文主页](https://bohansu.github.io/) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf)
+<p align="center">
+  <a href="https://bohansu.github.io/">中文主页</a> ·
+  <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
+</p>
 
 ## <picture><img src="assets/icons/scholar.svg" width="24" height="24" alt=""></picture> Education
 
@@ -45,9 +54,13 @@ Reliability-aware injection of monocular 3D body geometry for person re-identifi
 <details>
 <summary>UniGeo framework</summary>
 
-[![UniGeo framework: appearance and geometric features combined through a reliability-aware gate.](https://bohansu.github.io/images/research/unigeo-framework.png)](https://arxiv.org/abs/2607.18863)
+<p align="center">
+  <a href="https://arxiv.org/abs/2607.18863"><img src="https://bohansu.github.io/images/research/unigeo-framework.png" width="720" alt="UniGeo framework: appearance and geometric features combined through a reliability-aware gate."></a>
+</p>
 
-Source: [Su et al., 2026](https://arxiv.org/abs/2607.18863) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+<p align="center">
+  <sub>Source: <a href="https://arxiv.org/abs/2607.18863">Su et al., 2026</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sub>
+</p>
 
 </details>
 
@@ -63,14 +76,19 @@ Structural constraints and evaluator feedback for repairing scientific reasoning
 <details>
 <summary>PEARL framework</summary>
 
-[![PEARL framework: extraction, evaluation and auditable repair of scientific reasoning graphs.](https://bohansu.github.io/images/research/pearl-framework.png)](https://arxiv.org/abs/2607.17917)
+<p align="center">
+  <a href="https://arxiv.org/abs/2607.17917"><img src="https://bohansu.github.io/images/research/pearl-framework.png" width="720" alt="PEARL framework: extraction, evaluation and auditable repair of scientific reasoning graphs."></a>
+</p>
 
-Source: [Su et al., 2026](https://arxiv.org/abs/2607.17917) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+<p align="center">
+  <sub>Source: <a href="https://arxiv.org/abs/2607.17917">Su et al., 2026</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sub>
+</p>
 
 </details>
 
-### Appearance Variations in Person Re-Identification: A Survey
+### Appearance variation survey
 
+**Appearance Variations in Person Re-Identification: A Survey**<br>
 Research manuscript · **First author**
 
 A taxonomy of short-term, long-term and compound appearance variations, examining methods and evaluation through robustness and generalization.
@@ -127,8 +145,13 @@ A taxonomy of short-term, long-term and compound appearance variations, examinin
 
 </details>
 
-## Contact
+<h2 align="center">Contact</h2>
 
-I welcome research collaborations and research assistant opportunities in world models and multimodal foundation models.
+<p align="center">
+  I welcome research collaborations and research assistant opportunities<br>
+  in world models and multimodal foundation models.
+</p>
 
-[2023302143001@whu.edu.cn](mailto:2023302143001@whu.edu.cn)
+<p align="center">
+  <a href="mailto:2023302143001@whu.edu.cn">2023302143001@whu.edu.cn</a>
+</p>
