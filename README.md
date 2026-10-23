@@ -15,7 +15,9 @@ Undergraduate in Software Engineering · School of Computer Science · 2023.09�
 - GPA: 3.75 / 4.0 (July 2026 transcript)
 - CET-6: 506 (Dec 2024); CET-4: 595 (Jun 2024)
 
-### Innovative Talents Science Training Program (ITSTP)
+#### Additional coursework
+
+**Innovative Talents Science Training Program (ITSTP)**
 
 Machine Learning for Computer Vision · Non-degree course · 2025.03–2025.05
 
