@@ -105,7 +105,7 @@ A taxonomy of short-term, long-term and compound appearance variations, examinin
 
 - **SmartPhone Battery: The Moment of Depletion** — Physical battery modeling with ECM-EKF and physics-informed neural networks; MCM 2026 Finalist.
 - **A2A Multi-Agent System** — Protocol adaptation, streaming, context propagation and fallback handling; Shanghai Innovation Institute autumn camp project.
-- **A4R: Guided Smartphone AI Assistant** — Co-designed a clarify–execute–verify workflow spanning six domains and 16 apps; Challenge Cup — Jiebang Guashuai Special Competition, second prize.
+- **A4R: Guided Smartphone AI Assistant** — Co-designed a clarify–execute–verify workflow and built interaction samples across six domains and 16 apps; Challenge Cup — Jiebang Guashuai Special Competition, second prize.
 - **Xiaomi Quadruped Logistics System** — System design, algorithm debugging and delivery workflow testing; Xiaomi Cup national third prize.
 - **Modular Robot System** — Module coordination, bus arbitration, hot-plug discovery and bus merging; National University IoT Design Competition, national first prize and final six.
 
