@@ -1,15 +1,15 @@
 # Bohan Su · 苏渤涵
 
 **Software Engineering @ Wuhan University · Class of 2027**
-Structured representations for **computer vision** and **scientific reasoning**.
+Research interests: **world models** and **multimodal foundation models**.
 
 [Homepage](https://bohansu.github.io/en/) · [中文主页](https://bohansu.github.io/) · [CV](https://bohansu.github.io/files/Bohan_Su_CV_en.pdf) · [中文简历](https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf) · [Email](mailto:2023302143001@whu.edu.cn)
 
-I study how structured evidence can make visual representations and reasoning more reliable. My work spans person re-identification, verifiable scientific reasoning graphs, and agent and robotic systems. I contribute to experiment design, failure analysis, implementation, and research writing.
+My research interests are world models and multimodal foundation models. My previous work spans person re-identification, verifiable scientific reasoning graphs, and agent and robotic systems. I contribute to experiment design, failure analysis, implementation, and research writing.
 
-**Open to research collaborations and RA opportunities** in computer vision, structured reasoning, and multi-agent systems.
+**Open to research collaborations and RA opportunities** in world models and multimodal foundation models.
 
-## Research
+## Selected research
 
 ### UniGeo · Reliability-aware 3D geometry for person ReID
 
@@ -21,14 +21,6 @@ Uses monocular 3D body geometry as complementary evidence, with a reliability-aw
 
 [Code](https://github.com/BohanSu/UniGeo) · [Research overview](https://bohansu.github.io/en/#research-unigeo)
 
-### PEARL · Verifiable scientific reasoning graphs
-
-**First author · Preliminary version accepted to WAICA Workshop · Extension in progress**
-
-Separates model-generated graph candidates from checks for structure, compilation, and source alignment. The extension explores learning with smaller models from curated graphs, toward an AAAI submission.
-
-[Research overview](https://bohansu.github.io/en/#research-pearl)
-
 ### Appearance Variations in Person Re-Identification: A Survey
 
 **First author · In progress, targeting TPAMI**
@@ -36,6 +28,14 @@ Separates model-generated graph candidates from checks for structure, compilatio
 Organizes the field around short-term perturbations, long-term changes, and compound variations. Examines methods and evaluation through appearance robustness and generalization; writing and experiments are ongoing.
 
 [Research overview](https://bohansu.github.io/en/#research-survey)
+
+### PEARL · Verifiable scientific reasoning graphs
+
+**Previous work · First author · Preliminary version accepted to WAICA Workshop**
+
+PEARL explored verifiable scientific reasoning graph construction by combining model-generated candidates with checks for structure, compilation, and source alignment. Further development is no longer being pursued.
+
+[Research overview](https://bohansu.github.io/en/#research-pearl)
 
 ## Selected systems & modeling
 
