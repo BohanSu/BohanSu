@@ -32,7 +32,7 @@ I am a Software Engineering undergraduate at **Wuhan University**, advised by [P
 
 <table>
   <tr>
-    <td width="72" align="center"><picture><img src="assets/logos/casia-mark.svg?v=1" width="52" height="52" alt=""></picture></td>
+    <td width="72" align="center"><picture><img src="assets/logos/casia-emblem.png?v=1" width="56" height="56" alt=""></picture></td>
     <td>
       <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b>&nbsp; <picture><img src="assets/badges/incoming.svg?v=1" height="20" alt="Incoming · Fall 2027" align="top"></picture><br>
       M.S. student · State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)<br>
@@ -40,7 +40,7 @@ I am a Software Engineering undergraduate at **Wuhan University**, advised by [P
     </td>
   </tr>
   <tr>
-    <td width="72" align="center"><picture><img src="assets/logos/whu-mark.svg?v=1" width="52" height="52" alt=""></picture></td>
+    <td width="72" align="center"><picture><img src="assets/logos/whu-emblem.png?v=1" width="56" height="56" alt=""></picture></td>
     <td>
       <b>Wuhan University</b> · School of Computer Science<br>
       Undergraduate in Software Engineering · 2023.09–2027.06 (expected) · <b>GPA 3.75 / 4.0</b><br>
