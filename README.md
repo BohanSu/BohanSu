@@ -1,10 +1,11 @@
 <p align="center">
-  <a href="https://bohansu.github.io/en/"><picture><img src="assets/visuals/profile-banner.svg?v=1" width="1440" alt="Bohan Su · 苏渤涵 — World models and multimodal foundation models. Software Engineering at Wuhan University; incoming M.S. student at CASIA, Fall 2027."></picture></a>
+  <a href="https://bohansu.github.io/en/"><picture><img src="assets/visuals/profile-banner.svg?v=2" width="1440" alt="Bohan Su · 苏渤涵 — Embodied AI, world models, and multimodal understanding. Software Engineering at Wuhan University; incoming M.S. student at CASIA, Fall 2027."></picture></a>
 </p>
 
 <p align="center">
+  <picture><img src="assets/visuals/topic-embodied.svg?v=d4ed7d0e" alt="Embodied AI" width="128" height="32"></picture>
   <picture><img src="assets/visuals/topic-world.svg?v=3958a69c" alt="World models" width="144" height="32"></picture>
-  <picture><img src="assets/visuals/topic-multimodal.svg?v=80e96f4d" alt="Multimodal foundation models" width="228" height="32"></picture>
+  <picture><img src="assets/visuals/topic-multimodal.svg?v=657d7108" alt="Multimodal understanding" width="206" height="32"></picture>
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
   <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
 </p>
 
-I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://people.ucas.ac.cn/~jygao). My research experience spans person re-identification and scientific reasoning graphs; I am now drawn to **world models** and **multimodal foundation models**.
+I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://people.ucas.ac.cn/~jygao). My research experience spans person re-identification and scientific reasoning graphs. I am now drawn to **embodied AI**, **world models**, and **multimodal understanding**, particularly embodied tasks such as vision-and-language navigation, robot manipulation, and agent decision-making.
 
 ## <picture><img src="assets/icons/news.svg?v=1" width="24" height="24" alt=""></picture> News
 
@@ -161,7 +162,7 @@ CET-6: 506 · CET-4: 595
 
 <p align="center">
   I welcome research collaborations and research assistant opportunities<br>
-  in world models and multimodal foundation models.
+  in embodied AI, world models, and multimodal understanding.
 </p>
 
 <p align="center">
