@@ -56,7 +56,7 @@ I am a Software Engineering undergraduate at **Wuhan University**, advised by [P
 Machine Learning for Computer Vision · Non-degree course<br>
 93.10 / 100 (A+); 54 class hours. Instructor: Jens Rittscher, University of Oxford; lectures and coursework in English.
 
-CET-6: 506 (Dec 2024) · CET-4: 595 (Jun 2024)
+CET-6: 506 · CET-4: 595
 
 </details>
 
