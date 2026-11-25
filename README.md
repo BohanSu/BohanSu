@@ -120,14 +120,15 @@ CET-6: 506 · CET-4: 595
 
 ## <picture><img src="assets/icons/award.svg?v=3bb6046e" width="24" height="24" alt=""></picture> Selected honors
 
+- **2025–2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
 - **2026 · MCM Finalist**
 - **2025 · National University IoT Design Competition** — National Finals · First Prize; final six
 - **2025 · Challenge Cup — Jiebang Guashuai Special Competition** — Second Prize
 - **2024–2025 · Zheng Geru Scholarship** — First Class
-- **2023–2025 · First-Class Scholarship for Outstanding Students, Wuhan University** — Two consecutive academic years
+- **2023–2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Three consecutive academic years
 
 <details>
-<summary>All honors & awards · 18 entries</summary>
+<summary>All honors & awards · 19 entries</summary>
 
 ### Competitions
 
@@ -143,9 +144,10 @@ CET-6: 506 · CET-4: 595
 
 ### Scholarships & university honors
 
+- **2025–2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
 - **2024–2025 · Zheng Geru Scholarship** — First Class
-- **2023–2025 · First-Class Scholarship for Outstanding Students, Wuhan University** — Awarded in both 2023–2024 and 2024–2025
-- **2023–2025 · Merit Student, Wuhan University** — Awarded in both 2023–2024 and 2024–2025
+- **2023–2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Awarded in 2023–2024, 2024–2025, and 2025–2026
+- **2023–2026 · Merit Student, Wuhan University** — Awarded in 2023–2024, 2024–2025, and 2025–2026
 - **2024–2025 · Outstanding Student Leader, Wuhan University**
 - **2025 · Award for Outstanding Contributions to Extracurricular Science, Technology, Innovation and Entrepreneurship Competitions, Wuhan University**
 - **2025–2026 · Award for Outstanding Participation in Student Activities, Wuhan University**
