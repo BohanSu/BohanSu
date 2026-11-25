@@ -120,12 +120,12 @@ CET-6: 506 · CET-4: 595
 
 ## <picture><img src="assets/icons/award.svg?v=3bb6046e" width="24" height="24" alt=""></picture> Selected honors
 
-- **2025–2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
+- **2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
 - **2026 · MCM Finalist**
 - **2025 · National University IoT Design Competition** — National Finals · First Prize; final six
 - **2025 · Challenge Cup — Jiebang Guashuai Special Competition** — Second Prize
-- **2024–2025 · Zheng Geru Scholarship** — First Class
-- **2023–2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Three consecutive academic years
+- **2025 · Zheng Geru Scholarship** — First Class
+- **2024 / 2025 / 2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Three consecutive academic years
 
 <details>
 <summary>All honors & awards · 19 entries</summary>
@@ -144,18 +144,18 @@ CET-6: 506 · CET-4: 595
 
 ### Scholarships & university honors
 
-- **2025–2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
-- **2024–2025 · Zheng Geru Scholarship** — First Class
-- **2023–2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Awarded in 2023–2024, 2024–2025, and 2025–2026
-- **2023–2026 · Merit Student, Wuhan University** — Awarded in 2023–2024, 2024–2025, and 2025–2026
-- **2024–2025 · Outstanding Student Leader, Wuhan University**
+- **2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University** — 2025–2026 academic year
+- **2025 · Zheng Geru Scholarship** — First Class, 2024–2025 academic year
+- **2024 / 2025 / 2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — 2023–2024, 2024–2025, and 2025–2026 academic years
+- **2024 / 2025 / 2026 · Merit Student, Wuhan University** — 2023–2024, 2024–2025, and 2025–2026 academic years
+- **2025 · Outstanding Student Leader, Wuhan University** — 2024–2025 academic year
 - **2025 · Award for Outstanding Contributions to Extracurricular Science, Technology, Innovation and Entrepreneurship Competitions, Wuhan University**
-- **2025–2026 · Award for Outstanding Participation in Student Activities, Wuhan University**
+- **2026 · Award for Outstanding Participation in Student Activities, Wuhan University** — 2025–2026 academic year
 
 ### Sports & volunteering
 
 - **2025 · Hubei Orienteering and Radio Direction-Finding Championships** — M21-A: second in 3.5 MHz direction finding; third in the individual all-around event
-- **2024–2025 · Award for Outstanding Participation in University Sports, Wuhan University** — Awarded in both 2024 and 2025
+- **2024 / 2025 · Award for Outstanding Participation in University Sports, Wuhan University**
 - **2024 · Outstanding Young Volunteer during the Cherry Blossom Season, Wuhan University**
 
 </details>
