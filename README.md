@@ -20,7 +20,7 @@
   <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
 </p>
 
-I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://people.ucas.ac.cn/~jygao). My research experience spans person re-identification and scientific reasoning graphs. I am now drawn to **embodied AI**, **world models**, and **multimodal understanding**, particularly embodied tasks such as vision-and-language navigation, robot manipulation, and agent decision-making.
+I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://people.ucas.ac.cn/~jygao). My research experience spans person re-identification and scientific reasoning graphs. I am now drawn to **embodied AI**, **world models**, and **multimodal understanding**, particularly tasks such as vision-and-language navigation, robot manipulation, and agent decision-making.
 
 ## <picture><img src="assets/icons/news.svg?v=1" width="24" height="24" alt=""></picture> News
 
@@ -85,7 +85,7 @@ CET-6: 506 · CET-4: 595
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top" align="center"><sub>Survey · in preparation</sub></td>
+    <td width="300" valign="top" align="center"><sub>Survey</sub></td>
     <td valign="top">
       <picture><img src="assets/badges/manuscript.svg?v=1" height="22" alt="Research manuscript"></picture><br>
       <b>Appearance Variations in Person Re-Identification: A Survey</b><br>
