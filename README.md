@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bohansu.github.io/en/"><picture><img src="assets/visuals/profile-banner.svg?v=2" width="1440" alt="Bohan Su · 苏渤涵 — Embodied AI, world models, and multimodal understanding. Software Engineering at Wuhan University; incoming M.S. student at CASIA, Fall 2027."></picture></a>
+  <a href="https://bohansu.github.io/en/"><picture><img src="assets/visuals/profile-banner.svg?v=5492f04b" width="1440" alt="Bohan Su · 苏渤涵 — Embodied AI, world models, and multimodal understanding. Software Engineering undergraduate at Wuhan University; incoming M.S. student at CASIA, Fall 2027."></picture></a>
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@
   <a href="https://bohansu.github.io/files/%E8%8B%8F%E6%B8%A4%E6%B6%B5%E7%AE%80%E5%8E%86.pdf">中文简历</a>
 </p>
 
-I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://people.ucas.ac.cn/~jygao). My research experience spans person re-identification and scientific reasoning graphs. I am now drawn to **embodied AI**, **world models**, and **multimodal understanding**, particularly tasks such as vision-and-language navigation, robot manipulation, and agent decision-making.
+I am a Software Engineering undergraduate at **Wuhan University**, advised by [Prof. Mang Ye](https://marswhu.github.io/). In **Fall 2027** I will join the **Institute of Automation, Chinese Academy of Sciences (CASIA)** as an M.S. student advised by [Assoc. Prof. Junyu Gao](https://ia.cas.cn/rcdw/fyjy/202404/t20240422_7129945.html). My research experience spans person re-identification and scientific reasoning graphs. I am now drawn to **embodied AI**, **world models**, and **multimodal understanding**, particularly tasks such as vision-and-language navigation, robot manipulation, and agent decision-making.
 
 ## <picture><img src="assets/icons/news.svg?v=1" width="24" height="24" alt=""></picture> News
 
 - **2026** · Admitted to **CASIA** as an M.S. student starting in Fall 2027, advised by **Junyu Gao**.
 - **2026** · **UniGeo** was accepted to **ECCV 2026**; a journal extension is in progress.
 - **2026** · **PEARL** was accepted to the **WAICA 2026 Workshop**.
-- **2026** · **Finalist** in the Mathematical Contest in Modeling (MCM).
+- **2026** · Named a **Finalist** in the Mathematical Contest in Modeling (MCM).
 
 ## <picture><img src="assets/icons/scholar.svg?v=47bfc45c" width="24" height="24" alt=""></picture> Education
 
@@ -37,7 +37,7 @@ I am a Software Engineering undergraduate at **Wuhan University**, advised by [P
     <td>
       <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b>&nbsp; <picture><img src="assets/badges/incoming.svg?v=1" height="20" alt="Incoming · Fall 2027" align="top"></picture><br>
       M.S. student · State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)<br>
-      <sub>Advisor: <a href="https://people.ucas.ac.cn/~jygao"><b>Junyu Gao</b></a> — Associate Professor · 2026 recipient of the NSFC Excellent Young Scientists Fund</sub>
+      <sub>Advisor: <a href="https://ia.cas.cn/rcdw/fyjy/202404/t20240422_7129945.html"><b>Junyu Gao</b></a> — Associate Professor · 2026 recipient of the NSFC Excellent Young Scientists Fund</sub>
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ CET-6: 506 · CET-4: 595
     </td>
   </tr>
   <tr>
-    <td width="300" valign="top"><a href="https://arxiv.org/abs/2607.17917"><img src="https://bohansu.github.io/images/research/pearl-framework.png" width="300" alt="PEARL framework: extraction, evaluation and auditable repair of scientific reasoning graphs."></a></td>
+    <td width="300" valign="top"><a href="https://arxiv.org/abs/2607.17917"><img src="https://bohansu.github.io/images/research/pearl-framework.png" width="300" alt="PEARL framework: extraction, evaluation, and auditable repair of scientific reasoning graphs."></a></td>
     <td valign="top">
       <picture><img src="assets/badges/waica-2026.svg?v=1" height="22" alt="WAICA 2026 Workshop"></picture><br>
       <a href="https://arxiv.org/abs/2607.17917"><b>PEARL: Auditable Repair for Scientific Reasoning Graph Extraction</b></a><br>
@@ -90,7 +90,7 @@ CET-6: 506 · CET-4: 595
       <picture><img src="assets/badges/manuscript.svg?v=1" height="22" alt="Research manuscript"></picture><br>
       <b>Appearance Variations in Person Re-Identification: A Survey</b><br>
       <b>Bohan Su</b> · first student author (advisor listed first)<br>
-      <sub>A taxonomy of short-term, long-term and compound appearance variations, examining methods and evaluation through robustness and generalization.</sub><br>
+      <sub>A survey organized around short-term, long-term, and compound appearance variations, examining methods and evaluation from the perspectives of robustness and generalization.</sub><br>
       <a href="https://bohansu.github.io/en/#research-survey">Research overview</a>
     </td>
   </tr>
@@ -106,15 +106,15 @@ CET-6: 506 · CET-4: 595
 | <picture><img src="https://github.com/promptfoo.png?size=40" width="18" height="18" alt=""></picture> [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [Add a local text-classification provider](https://github.com/promptfoo/promptfoo/pull/11997) | <a href="https://github.com/promptfoo/promptfoo/pull/11997"><img src="https://img.shields.io/github/pulls/detail/state/promptfoo/promptfoo/11997?label=PR&style=flat-square" alt="PR state"></a> |
 | <picture><img src="https://github.com/emilk.png?size=40" width="18" height="18" alt=""></picture> [emilk/egui](https://github.com/emilk/egui) | [Fix stalled WebGL screenshot readbacks in eframe](https://github.com/emilk/egui/pull/8788) | <a href="https://github.com/emilk/egui/pull/8788"><img src="https://img.shields.io/github/pulls/detail/state/emilk/egui/8788?label=PR&style=flat-square" alt="PR state"></a> |
 | <picture><img src="https://github.com/Dige945.png?size=40" width="18" height="18" alt=""></picture> [Dige945/AirSlide](https://github.com/Dige945/AirSlide) | [Improve local controls and responsive layout](https://github.com/Dige945/AirSlide/pull/5) | <a href="https://github.com/Dige945/AirSlide/pull/5"><img src="https://img.shields.io/github/pulls/detail/state/Dige945/AirSlide/5?label=PR&style=flat-square" alt="PR state"></a> |
-| <picture><img src="https://github.com/HaoyuLi-Nova.png?size=40" width="18" height="18" alt=""></picture> [HaoyuLi-Nova/CyberMars](https://github.com/HaoyuLi-Nova/CyberMars) | [Depth-camera stop before yellow lights in simulation](https://github.com/HaoyuLi-Nova/CyberMars/pull/1) | <a href="https://github.com/HaoyuLi-Nova/CyberMars/pull/1"><img src="https://img.shields.io/github/pulls/detail/state/HaoyuLi-Nova/CyberMars/1?label=PR&style=flat-square" alt="PR state"></a> |
+| <picture><img src="https://github.com/HaoyuLi-Nova.png?size=40" width="18" height="18" alt=""></picture> [HaoyuLi-Nova/CyberMars](https://github.com/HaoyuLi-Nova/CyberMars) | [Use the depth camera to stop before yellow lights in simulation](https://github.com/HaoyuLi-Nova/CyberMars/pull/1) | <a href="https://github.com/HaoyuLi-Nova/CyberMars/pull/1"><img src="https://img.shields.io/github/pulls/detail/state/HaoyuLi-Nova/CyberMars/1?label=PR&style=flat-square" alt="PR state"></a> |
 
 ## <picture><img src="assets/icons/code.svg?v=02d42070" width="24" height="24" alt=""></picture> Selected projects
 
 - **SmartPhone Battery: The Moment of Depletion** — Physical battery modeling with ECM-EKF and physics-informed neural networks; MCM 2026 Finalist.
-- **A2A Multi-Agent System** — Protocol adaptation, streaming, context propagation and fallback handling; Shanghai Innovation Institute autumn camp project.
-- **A4R: Guided Smartphone AI Assistant** — Co-designed a clarify–execute–verify workflow and built interaction samples across six domains and 16 apps; Challenge Cup — Jiebang Guashuai Special Competition, second prize.
-- **Xiaomi Quadruped Logistics System** — System design, algorithm debugging and delivery workflow testing; Xiaomi Cup national third prize.
-- **Modular Robot System** — Module coordination, bus arbitration, hot-plug discovery and bus merging; National University IoT Design Competition, national first prize and final six.
+- **A2A Multi-Agent System** — Protocol adaptation, streaming, context propagation, and fallback handling; Shanghai Innovation Institute Autumn Camp project.
+- **A4R: Guided Smartphone AI Assistant** — Co-designed a clarify–execute–verify workflow and built interaction samples across six domains and 16 apps; Challenge Cup — Jiebang Guashuai Special Competition, Second Prize.
+- **Xiaomi Quadruped Logistics System** — System design, algorithm debugging, and delivery workflow testing; Xiaomi Cup national third prize.
+- **Modular Robot System** — Module coordination, bus arbitration, hot-plug discovery, and bus merging; National University IoT Design Competition, National First Prize (final six).
 
 [Project details](https://bohansu.github.io/en/#projects) · [All public repositories](https://github.com/BohanSu?tab=repositories)
 
@@ -122,7 +122,7 @@ CET-6: 506 · CET-4: 595
 
 - **2026 · Lei Jun Computer Scholarship (Undergraduate), Wuhan University**
 - **2026 · MCM Finalist**
-- **2025 · National University IoT Design Competition** — National Finals · First Prize; final six
+- **2025 · National University IoT Design Competition** — National Finals · First Prize; qualified for the final six
 - **2025 · Challenge Cup — Jiebang Guashuai Special Competition** — Second Prize
 - **2025 · Zheng Geru Scholarship** — First Class
 - **2024 / 2025 / 2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — Three consecutive academic years
@@ -149,14 +149,14 @@ CET-6: 506 · CET-4: 595
 - **2024 / 2025 / 2026 · First-Class Scholarship for Outstanding Students, Wuhan University** — 2023–2024, 2024–2025, and 2025–2026 academic years
 - **2024 / 2025 / 2026 · Merit Student, Wuhan University** — 2023–2024, 2024–2025, and 2025–2026 academic years
 - **2025 · Outstanding Student Leader, Wuhan University** — 2024–2025 academic year
-- **2025 · Award for Outstanding Contributions to Extracurricular Science, Technology, Innovation and Entrepreneurship Competitions, Wuhan University**
+- **2025 · Award for Outstanding Contributions to Extracurricular Science, Technology, Innovation, and Entrepreneurship Competitions, Wuhan University**
 - **2026 · Award for Outstanding Participation in Student Activities, Wuhan University** — 2025–2026 academic year
 
 ### Sports & volunteering
 
 - **2025 · Hubei Orienteering and Radio Direction-Finding Championships** — M21-A: second in 3.5 MHz direction finding; third in the individual all-around event
 - **2024 / 2025 · Award for Outstanding Participation in University Sports, Wuhan University**
-- **2024 · Outstanding Young Volunteer during the Cherry Blossom Season, Wuhan University**
+- **2024 · Outstanding Young Volunteer, Cherry Blossom Season, Wuhan University**
 
 </details>
 
