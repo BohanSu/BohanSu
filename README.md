@@ -12,7 +12,7 @@
   <a href="https://bohansu.github.io/en/"><img src="assets/icons/link-home.svg?v=bfaf170b" alt="Homepage" width="128" height="38"></a>
   <a href="https://scholar.google.com/citations?user=QXCpAoIAAAAJ&amp;hl=zh-CN"><img src="assets/icons/link-scholar.svg?v=e4191c52" alt="Google Scholar" width="128" height="38"></a>
   <a href="https://bohansu.github.io/files/Bohan_Su_CV_en.pdf"><img src="assets/icons/link-cv.svg?v=94ff093c" alt="CV" width="128" height="38"></a>
-  <a href="mailto:2023302143001@whu.edu.cn"><img src="assets/icons/link-mail.svg?v=f86d7ac7" alt="Email" width="128" height="38"></a>
+  <a href="mailto:bohansu@whu.edu.cn"><img src="assets/icons/link-mail.svg?v=f86d7ac7" alt="Email" width="128" height="38"></a>
 </p>
 
 <p align="center">
@@ -168,5 +168,5 @@ CET-6: 506 · CET-4: 595
 </p>
 
 <p align="center">
-  <a href="mailto:2023302143001@whu.edu.cn"><b>2023302143001@whu.edu.cn</b></a>
+  <a href="mailto:bohansu@whu.edu.cn"><b>bohansu@whu.edu.cn</b></a>
 </p>
